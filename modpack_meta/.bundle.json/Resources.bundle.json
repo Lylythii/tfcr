@@ -1,0 +1,12 @@
+{
+	"curse":
+	[
+		{
+            "comment": "TFC+ Alternate Default | https://www.curseforge.com/minecraft/texture-packs/tfc-alternate-default/files/3796017",
+			"folder": "modpack_meta/cache/TFC+AlternateDefault",
+			"fileName": "TFC+AlternateDefault.zip",
+			"addonId": 613152,
+			"fileId": 3796017
+		}
+	]
+}
