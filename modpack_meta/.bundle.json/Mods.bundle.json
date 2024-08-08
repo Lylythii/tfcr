@@ -4,7 +4,6 @@
 		{
             "comment": "TerraFirmaCraft | https://www.curseforge.com/minecraft/mc-mods/terrafirmacraft/files/2627990",
 			"folder": "mods/1.7.10",
-			"fileName": "TFC ┆ TerraFirmaCraft.jar",
 			"addonId": 302973,
 			"fileId": 2627990
 		},
@@ -77,6 +76,13 @@
 			"fileName": "MOD ┆ Resource Pack Organizer.jar",
 			"addonId": 246231,
 			"fileId": 2308261
+		},
+		{
+            "comment": "Railcraft | https://www.curseforge.com/minecraft/mc-mods/railcraft/files/2458987",
+			"folder": "mods/1.7.10",
+			"fileName": "MOD ┆ Railcraft.jar",
+			"addonId": 51195,
+			"fileId": 2458987
 		},
 		{
             "comment": "Angelica | https://www.curseforge.com/minecraft/mc-mods/angelica/files/5597056",
