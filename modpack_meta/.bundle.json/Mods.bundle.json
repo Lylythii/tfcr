@@ -4,8 +4,79 @@
 		{
             "comment": "TerraFirmaCraft | https://www.curseforge.com/minecraft/mc-mods/terrafirmacraft/files/2627990",
 			"folder": "mods/1.7.10",
+			"fileName": "TFC ┆ TerraFirmaCraft.jar",
 			"addonId": 302973,
 			"fileId": 2627990
+		},
+		{
+            "comment": "Streams | https://www.curseforge.com/minecraft/mc-mods/streams/files/2566220",
+			"folder": "mods/1.7.10",
+			"fileName": "TFC ADDON ┆ Streams.jar",
+			"addonId": 229769,
+			"fileId": 2566220
+		},
+		{
+            "comment": "TFC Additions | https://www.curseforge.com/minecraft/mc-mods/tfc-additions/files/2952556",
+			"folder": "mods/1.7.10",
+			"fileName": "TFC ADDON ┆ TFC Additions.jar",
+			"addonId": 382181,
+			"fileId": 2952556
+		},
+		{
+            "comment": "TFC Tweaks | https://www.curseforge.com/minecraft/mc-mods/tfc-tweaks/files/2341278",
+			"folder": "mods/1.7.10",
+			"fileName": "TFC ADDON ┆ TFC Tweaks.jar",
+			"addonId": 253135,
+			"fileId": 2341278
+		},
+		{
+            "comment": "TFC Leather Water Sac | https://www.curseforge.com/minecraft/mc-mods/tfc-leather-sac/files/2732624",
+			"folder": "mods/1.7.10",
+			"fileName": "TFC ADDON ┆ TFC Leather Water Sac.jar",
+			"addonId": 325664,
+			"fileId": 2732624
+		},
+		{
+            "comment": "TFC Railcraft | https://www.curseforge.com/minecraft/mc-mods/tfcrailcraft/files/2266974",
+			"folder": "mods/1.7.10",
+			"fileName": "TFC ADDON ┆ TFC Railcraft.jar",
+			"addonId": 230890,
+			"fileId": 2266974
+		},
+		{
+            "comment": "TFC Metric | https://www.curseforge.com/minecraft/mc-mods/tfc-metric/files/2859122",
+			"folder": "mods/1.7.10",
+			"fileName": "TFC ADDON ┆ TFC Metric.jar",
+			"addonId": 358305,
+			"fileId": 2859122
+		},
+		{
+            "comment": "TFC NEI Plugin | https://www.curseforge.com/minecraft/mc-mods/terrafirmacraftneiplugin/files/2342194",
+			"folder": "mods/1.7.10",
+			"fileName": "TFC ADDON ┆ TFC NEI Plugin.jar",
+			"addonId": 253284,
+			"fileId": 2342194
+		},
+		{
+            "comment": "TFC Aged Booze | https://www.curseforge.com/minecraft/mc-mods/tfc-aged-booze/files/4559674",
+			"folder": "mods/1.7.10",
+			"fileName": "TFC ADDON ┆ TFC Aged Booze.jar",
+			"addonId": 822896,
+			"fileId": 4559674
+		},
+		{
+            "comment": "Farseek | https://www.curseforge.com/minecraft/mc-mods/farseek/files/2457658",
+			"folder": "mods/1.7.10",
+			"fileName": "LIB ┆ Farseek.jar",
+			"addonId": 229708,
+			"fileId": 2457658
+		},
+		{
+            "comment": "Resource Pack Organizer | https://www.curseforge.com/minecraft/mc-mods/resource-pack-organizer/files/2308261",
+			"folder": "mods/1.7.10",
+			"fileName": "MOD ┆ Resource Pack Organizer.jar",
+			"addonId": 246231,
+			"fileId": 2308261
 		},
 		{
             "comment": "Angelica | https://www.curseforge.com/minecraft/mc-mods/angelica/files/5597056",
@@ -25,6 +96,16 @@
             "comment": "UniMixins | https://github.com/LegacyModdingMC/UniMixins/releases",
 			"folder": "mods/1.7.10",
 			"url": "https://github.com/LegacyModdingMC/UniMixins/releases/download/0.1.17/+unimixins-all-mods/1.7.10-0.1.17.jar"
+		},
+		{
+            "comment": "Not Enough Items Unofficial | https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.6.21-GTNH-pre/NotEnoughItems-2.6.21-GTNH-pre.jar",
+			"folder": "mods/1.7.10",
+			"url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.6.21-GTNH-pre/NotEnoughItems-2.6.21-GTNH-pre.jar"
+		},
+		{
+            "comment": "Code Chicken Core Unofficial | https://github.com/GTNewHorizons/CodeChickenCore/releases/download/1.3.6/CodeChickenCore-1.3.6.jar",
+			"folder": "mods/1.7.10",
+			"url": "https://github.com/GTNewHorizons/CodeChickenCore/releases/download/1.3.6/CodeChickenCore-1.3.6.jar"
 		}
 	]
 }
