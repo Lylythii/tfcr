@@ -3,11 +3,13 @@
 	[
 		{
             "comment": "TerraFirmaCraft | https://www.curseforge.com/minecraft/mc-mods/terrafirmacraft/files/2627990",
+			"folder": "1.7.10",
 			"addonId": 302973,
 			"fileId": 2627990
 		},
 		{
             "comment": "Angelica | https://www.curseforge.com/minecraft/mc-mods/angelica/files/5597056",
+			"folder": "1.7.10",
 			"addonId": 988067,
 			"fileId": 5597056
 		}
@@ -16,10 +18,12 @@
 	[
 		{
             "comment": "GTNHLib | https://github.com/GTNewHorizons/GTNHLib/releases",
+			"folder": "1.7.10",
 			"url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.4.2/gtnhlib-0.4.2.jar"
 		},
 		{
             "comment": "UniMixins | https://github.com/LegacyModdingMC/UniMixins/releases",
+			"folder": "1.7.10",
 			"url": "https://github.com/LegacyModdingMC/UniMixins/releases/download/0.1.17/+unimixins-all-1.7.10-0.1.17.jar"
 		}
 	]
