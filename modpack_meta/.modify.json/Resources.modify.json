@@ -3,13 +3,13 @@
 	[
 		{
             "comment": "TFC+ Alternate Default ---> Default Loaded TFC Resources",
-			"folder": "modpack_meta/cache/TFC+AlternateDefault/assets/terrafirmacraftplus/textures/items/gems",
+			"folder": "modpack_meta/cache/TFCAlternateDefault/assets/terrafirmacraftplus/textures/items/gems",
 			"fileName": "Chipped Agate.png",
 			"newFolder": "resources/terrafirmacraft/textures/items/gems"
 		},
 		{
             "comment": "TFC+ Alternate Default ---> Default Loaded TFC Resources",
-			"folder": "modpack_meta/cache/TFC+AlternateDefault/assets/terrafirmacraftplus/textures/items/gems",
+			"folder": "modpack_meta/cache/TFCAlternateDefault/assets/terrafirmacraftplus/textures/items/gems",
 			"fileName": "Chipped Amethyst.png",
 			"newFolder": "resources/terrafirmacraft/textures/items/gems"
 		}
