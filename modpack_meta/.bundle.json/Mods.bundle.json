@@ -1,0 +1,26 @@
+{
+	"curse":
+	[
+		{
+            "comment": "TerraFirmaCraft | https://www.curseforge.com/minecraft/mc-mods/terrafirmacraft/files/2627990",
+			"addonId": 302973,
+			"fileId": 2627990
+		},
+		{
+            "comment": "Angelica | https://www.curseforge.com/minecraft/mc-mods/angelica/files/5597056",
+			"addonId": 988067,
+			"fileId": 5597056
+		}
+	],
+	"url":
+	[
+		{
+            "comment": "GTNHLib | https://github.com/GTNewHorizons/GTNHLib/releases",
+			"url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.4.2/gtnhlib-0.4.2.jar"
+		},
+		{
+            "comment": "UniMixins | https://github.com/LegacyModdingMC/UniMixins/releases",
+			"url": "https://github.com/LegacyModdingMC/UniMixins/releases/download/0.1.17/+unimixins-all-1.7.10-0.1.17.jar"
+		}
+	]
+}
