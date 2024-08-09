@@ -106,6 +106,27 @@
 			"fileId": 2292845
 		},
 		{
+            "comment": "CraftTweaker | https://www.curseforge.com/minecraft/mc-mods/crafttweaker/files/2838720",
+			"folder": "mods/1.7.10",
+			"fileName": "MOD ┆ CraftTweaker.jar",
+			"addonId": 239197,
+			"fileId": 2838720
+		},
+		{
+            "comment": "Carpenters Blocks | https://www.curseforge.com/minecraft/mc-mods/carpenters-blocks/files/2719376",
+			"folder": "mods/1.7.10",
+			"fileName": "MOD ┆ Carpenters Blocks.jar",
+			"addonId": 228932,
+			"fileId": 2719376
+		},
+		{
+            "comment": "Lumy Skin Patch | https://www.curseforge.com/minecraft/mc-mods/lumy-skin-patch/files/5016113",
+			"folder": "mods/1.7.10",
+			"fileName": "MOD ┆ Lumy Skin Patch.jar",
+			"addonId": 288957,
+			"fileId": 5016113
+		},
+		{
             "comment": "Angelica | https://www.curseforge.com/minecraft/mc-mods/angelica/files/5597056",
 			"folder": "mods/1.7.10",
 			"addonId": 988067,
@@ -114,6 +135,12 @@
 	],
 	"url":
 	[
+		{
+            "comment": "Cooking With TFC | https://github.com/StrayWolfe/Cooking-with-TFC/releases",
+			"folder": "mods/1.7.10",
+			"fileName": "MOD ┆ Cooking With TFC.jar",
+			"url": "https://github.com/StrayWolfe/Cooking-with-TFC/releases/download/v0.0.7.0/CookingWithTFC-1.7.10-0.0.7.1.jar"
+		},
 		{
             "comment": "GTNHLib | https://github.com/GTNewHorizons/GTNHLib/releases",
 			"folder": "mods/1.7.10",
