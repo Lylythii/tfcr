@@ -342,6 +342,92 @@
 			"folder": "modpack_meta/cache/TFCAlternateDefault/assets/terrafirmacraftplus/textures/items/gems",
 			"fileName": "Normal Tourmaline.png",
 			"newFolder": "resources/terrafirmacraft/textures/items/gems"
+		},
+
+		
+		{
+            "comment": "TFC+ Alternate Default ---> Default Loaded TFC Resources",
+			"folder": "modpack_meta/cache/TFCAlternateDefault/assets/terrafirmacraftplus/textures/items/gems",
+			"fileName": "Flawless Agate.png",
+			"newFolder": "resources/terrafirmacraft/textures/items/gems"
+		},
+		{
+            "comment": "TFC+ Alternate Default ---> Default Loaded TFC Resources",
+			"folder": "modpack_meta/cache/TFCAlternateDefault/assets/terrafirmacraftplus/textures/items/gems",
+			"fileName": "Flawless Amethyst.png",
+			"newFolder": "resources/terrafirmacraft/textures/items/gems"
+		},
+		{
+            "comment": "TFC+ Alternate Default ---> Default Loaded TFC Resources",
+			"folder": "modpack_meta/cache/TFCAlternateDefault/assets/terrafirmacraftplus/textures/items/gems",
+			"fileName": "Flawless Beryl.png",
+			"newFolder": "resources/terrafirmacraft/textures/items/gems"
+		},
+		{
+            "comment": "TFC+ Alternate Default ---> Default Loaded TFC Resources",
+			"folder": "modpack_meta/cache/TFCAlternateDefault/assets/terrafirmacraftplus/textures/items/gems",
+			"fileName": "Flawless Diamond.png",
+			"newFolder": "resources/terrafirmacraft/textures/items/gems"
+		},
+		{
+            "comment": "TFC+ Alternate Default ---> Default Loaded TFC Resources",
+			"folder": "modpack_meta/cache/TFCAlternateDefault/assets/terrafirmacraftplus/textures/items/gems",
+			"fileName": "Flawless Emerald.png",
+			"newFolder": "resources/terrafirmacraft/textures/items/gems"
+		},
+		{
+            "comment": "TFC+ Alternate Default ---> Default Loaded TFC Resources",
+			"folder": "modpack_meta/cache/TFCAlternateDefault/assets/terrafirmacraftplus/textures/items/gems",
+			"fileName": "Flawless Garnet.png",
+			"newFolder": "resources/terrafirmacraft/textures/items/gems"
+		},
+		{
+            "comment": "TFC+ Alternate Default ---> Default Loaded TFC Resources",
+			"folder": "modpack_meta/cache/TFCAlternateDefault/assets/terrafirmacraftplus/textures/items/gems",
+			"fileName": "Flawless Jade.png",
+			"newFolder": "resources/terrafirmacraft/textures/items/gems"
+		},
+		{
+            "comment": "TFC+ Alternate Default ---> Default Loaded TFC Resources",
+			"folder": "modpack_meta/cache/TFCAlternateDefault/assets/terrafirmacraftplus/textures/items/gems",
+			"fileName": "Flawless Jade.png",
+			"newFolder": "resources/terrafirmacraft/textures/items/gems"
+		},
+		{
+            "comment": "TFC+ Alternate Default ---> Default Loaded TFC Resources",
+			"folder": "modpack_meta/cache/TFCAlternateDefault/assets/terrafirmacraftplus/textures/items/gems",
+			"fileName": "Flawless Jasper.png",
+			"newFolder": "resources/terrafirmacraft/textures/items/gems"
+		},
+		{
+            "comment": "TFC+ Alternate Default ---> Default Loaded TFC Resources",
+			"folder": "modpack_meta/cache/TFCAlternateDefault/assets/terrafirmacraftplus/textures/items/gems",
+			"fileName": "Flawless Opal.png",
+			"newFolder": "resources/terrafirmacraft/textures/items/gems"
+		},
+		{
+            "comment": "TFC+ Alternate Default ---> Default Loaded TFC Resources",
+			"folder": "modpack_meta/cache/TFCAlternateDefault/assets/terrafirmacraftplus/textures/items/gems",
+			"fileName": "Flawless Ruby.png",
+			"newFolder": "resources/terrafirmacraft/textures/items/gems"
+		},
+		{
+            "comment": "TFC+ Alternate Default ---> Default Loaded TFC Resources",
+			"folder": "modpack_meta/cache/TFCAlternateDefault/assets/terrafirmacraftplus/textures/items/gems",
+			"fileName": "Flawless Sapphire.png",
+			"newFolder": "resources/terrafirmacraft/textures/items/gems"
+		},
+		{
+            "comment": "TFC+ Alternate Default ---> Default Loaded TFC Resources",
+			"folder": "modpack_meta/cache/TFCAlternateDefault/assets/terrafirmacraftplus/textures/items/gems",
+			"fileName": "Flawless Topaz.png",
+			"newFolder": "resources/terrafirmacraft/textures/items/gems"
+		},
+		{
+            "comment": "TFC+ Alternate Default ---> Default Loaded TFC Resources",
+			"folder": "modpack_meta/cache/TFCAlternateDefault/assets/terrafirmacraftplus/textures/items/gems",
+			"fileName": "Flawless Tourmaline.png",
+			"newFolder": "resources/terrafirmacraft/textures/items/gems"
 		}
 	]
 }
