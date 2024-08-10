@@ -65,6 +65,19 @@
 				"downloadAlways": true
 			}
 		},
+
+
+
+		{
+			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/config/Netherlicious/Worldgeneration_Configuration.cfg",
+			"folder": "config/Netherlicious",
+			"installationPolicy":
+			{
+				"downloadAlways": true
+			}
+		},
+
+		
 		
 		{
 			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/config/TFC-Tweaks.cfg",
