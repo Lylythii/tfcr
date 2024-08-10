@@ -155,6 +155,20 @@
 			"fileId": 2224857
 		},
 		{
+            "comment": "Item Physics | https://www.curseforge.com/minecraft/mc-mods/itemphysic/files/2498124",
+			"folder": "mods/1.7.10",
+			"fileName": "MOD ┆ Item Physics.jar",
+			"addonId": 258587,
+			"fileId": 2498124
+		},
+		{
+            "comment": "Custom Main Menu | https://www.curseforge.com/minecraft/mc-mods/custom-main-menu/files/2264779",
+			"folder": "mods/1.7.10",
+			"fileName": "MOD ┆ Custom Main Menu.jar",
+			"addonId": 226406,
+			"fileId": 2264779
+		},
+		{
             "comment": "Angelica | https://www.curseforge.com/minecraft/mc-mods/angelica/files/5597056",
 			"folder": "mods/1.7.10",
 			"addonId": 988067,
