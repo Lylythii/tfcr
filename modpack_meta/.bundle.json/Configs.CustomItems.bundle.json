@@ -1,0 +1,21 @@
+{
+	"url":
+	[
+		{
+			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/config/customitems/Items.cfg",
+			"folder": "config/etfuturum",
+			"installationPolicy":
+			{
+				"downloadAlways": true
+			}
+		},
+		{
+			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/config/customitems/CreativeTabs.cfg",
+			"folder": "config/etfuturum",
+			"installationPolicy":
+			{
+				"downloadAlways": true
+			}
+		}
+	]
+}
