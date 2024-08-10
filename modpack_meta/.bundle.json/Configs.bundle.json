@@ -2,6 +2,39 @@
 	"url":
 	[
 		{
+			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/config/etfuturum/blocksitems.cfg",
+			"folder": "config"
+		},
+		{
+			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/config/etfuturum/entities.cfg",
+			"folder": "config"
+		},
+		{
+			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/config/etfuturum/experiments.cfg",
+			"folder": "config"
+		},
+		{
+			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/config/etfuturum/functions.cfg",
+			"folder": "config"
+		},
+		{
+			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/config/etfuturum/mixins.cfg",
+			"folder": "config"
+		},
+		{
+			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/config/etfuturum/modcompat.cfg",
+			"folder": "config"
+		},
+		{
+			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/config/etfuturum/tweaks.cfg",
+			"folder": "config"
+		},
+		{
+			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/config/etfuturum/world.cfg",
+			"folder": "config"
+		},
+		
+		{
 			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/config/TFC-Tweaks.cfg",
 			"folder": "config"
 		}
