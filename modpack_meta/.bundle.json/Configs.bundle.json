@@ -3,40 +3,76 @@
 	[
 		{
 			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/config/etfuturum/blocksitems.cfg",
-			"folder": "config"
+			"folder": "config/etfuturum",
+			"installationPolicy":
+			{
+				"downloadAlways": true
+			}
 		},
 		{
 			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/config/etfuturum/entities.cfg",
-			"folder": "config"
+			"folder": "config/etfuturum",
+			"installationPolicy":
+			{
+				"downloadAlways": true
+			}
 		},
 		{
 			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/config/etfuturum/experiments.cfg",
-			"folder": "config"
+			"folder": "config/etfuturum",
+			"installationPolicy":
+			{
+				"downloadAlways": true
+			}
 		},
 		{
 			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/config/etfuturum/functions.cfg",
-			"folder": "config"
+			"folder": "config/etfuturum",
+			"installationPolicy":
+			{
+				"downloadAlways": true
+			}
 		},
 		{
 			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/config/etfuturum/mixins.cfg",
-			"folder": "config"
+			"folder": "config/etfuturum",
+			"installationPolicy":
+			{
+				"downloadAlways": true
+			}
 		},
 		{
 			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/config/etfuturum/modcompat.cfg",
-			"folder": "config"
+			"folder": "config/etfuturum",
+			"installationPolicy":
+			{
+				"downloadAlways": true
+			}
 		},
 		{
 			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/config/etfuturum/tweaks.cfg",
-			"folder": "config"
+			"folder": "config/etfuturum",
+			"installationPolicy":
+			{
+				"downloadAlways": true
+			}
 		},
 		{
 			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/config/etfuturum/world.cfg",
-			"folder": "config"
+			"folder": "config/etfuturum",
+			"installationPolicy":
+			{
+				"downloadAlways": true
+			}
 		},
 		
 		{
 			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/config/TFC-Tweaks.cfg",
-			"folder": "config"
+			"folder": "config",
+			"installationPolicy":
+			{
+				"downloadAlways": true
+			}
 		}
 	]
 }
