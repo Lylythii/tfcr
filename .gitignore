@@ -21,6 +21,8 @@
 !modpack_meta/config/customitems/*
 !modpack_meta/config/etfuturum
 !modpack_meta/config/etfuturum/*
+!modpack_meta/lang
+!modpack_meta/lang/*
 !modpack_meta/mods
 !modpack_meta/resources
 !modpack_meta/resources/*

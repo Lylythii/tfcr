@@ -11,3 +11,5 @@ mods.nei.NEI.hide(<CarpentersBlocks:blockCarpentersDoor>);
 
 /* Hide Torches as they're currently unused */
 mods.nei.NEI.hide(<CarpentersBlocks:blockCarpentersTorch>);
+/* Beds break the daylight cycle irreversibly. DANGEROUS to re-enable. */
+mods.nei.NEI.hide(<CarpentersBlocks:blockCarpentersBed>);
