@@ -2,7 +2,7 @@
 	"url":
 	[
 		{
-			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/config/customitems/Items.cfg",
+			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/config/customitems/Items.json",
 			"folder": "config/etfuturum",
 			"installationPolicy":
 			{
@@ -10,7 +10,7 @@
 			}
 		},
 		{
-			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/config/customitems/CreativeTabs.cfg",
+			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/config/customitems/CreativeTabs.json",
 			"folder": "config/etfuturum",
 			"installationPolicy":
 			{
