@@ -11,6 +11,7 @@ recipes.addShaped(<CarpentersBlocks:blockCarpentersBlock> * 2, [
 recipes.remove(<CarpentersBlocks:blockCarpentersTorch>);
 
 /* Change tile recipe to use oreDict */
+recipes.remove(<CarpentersBlocks:itemCarpentersTile>);
 recipes.addShaped(<CarpentersBlocks:itemCarpentersTile> * 12, [
     [<ore:terracottaRaw>, <ore:terracottaRaw>, <ore:terracottaRaw>],
     [<ore:carpentersBlock>, <ore:carpentersBlock>, <ore:carpentersBlock>]
