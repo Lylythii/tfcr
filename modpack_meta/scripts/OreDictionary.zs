@@ -76,3 +76,21 @@ var terracottaRed = <ore:terracottaRed>;
 
 var terracottaBlack = <ore:terracottaBlack>;
     terracottaBlack.add(<minecraft:stained_hardened_clay:15>);
+
+
+/* ================ Powders ================ */
+var powderCrystalFlux = <ore:powderCrystalFlux>;
+    powderCrystalFlux.add(<minecraft:bedrock>);
+
+
+/* ================ Books ================ */
+var bookWriteable = <ore:bookWriteable>;
+    bookWriteable.add(<minecraft:bedrock>);
+
+
+/* ================ Obsidian ================ */
+var obsidian = <ore:obsidian>;
+    obsidian.add(<minecraft:obsidian>);
+
+var obsidianCrying = <ore:obsidianCrying>;
+    obsidianCrying.add(<etfuturum:crying_obsidian>);

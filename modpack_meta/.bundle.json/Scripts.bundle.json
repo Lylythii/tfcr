@@ -2,7 +2,23 @@
 	"url":
 	[
 		{
+			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/scripts/enchanting.Fuels.zs",
+			"folder": "scripts",
+			"installationPolicy":
+			{
+				"downloadAlways": true
+			}
+		},
+		{
 			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/scripts/nei.CarpentersBlocks.zs",
+			"folder": "scripts",
+			"installationPolicy":
+			{
+				"downloadAlways": true
+			}
+		},
+		{
+			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/scripts/nei.TerraFirmaCraft.zs",
 			"folder": "scripts",
 			"installationPolicy":
 			{
@@ -18,7 +34,7 @@
 			}
 		},
 		{
-			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/scripts/recipe.LeatherWaterSacs.zs",
+			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/scripts/Tooltips.zs",
 			"folder": "scripts",
 			"installationPolicy":
 			{
@@ -27,6 +43,30 @@
 		},
 		{
 			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/scripts/recipe.CarpentersBlocks.zs",
+			"folder": "scripts",
+			"installationPolicy":
+			{
+				"downloadAlways": true
+			}
+		},
+		{
+			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/scripts/recipe.LeatherWaterSacs.zs",
+			"folder": "scripts",
+			"installationPolicy":
+			{
+				"downloadAlways": true
+			}
+		},
+		{
+			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/scripts/recipe.Minecraft.zs",
+			"folder": "scripts",
+			"installationPolicy":
+			{
+				"downloadAlways": true
+			}
+		},
+		{
+			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/scripts/recipe.TerraFirmaCraft.zs",
 			"folder": "scripts",
 			"installationPolicy":
 			{
