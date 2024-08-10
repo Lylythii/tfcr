@@ -26,7 +26,7 @@
 			}
 		},
 		{
-			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/scripts/recipe.recipe.CarpentersBlocks.zs",
+			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/scripts/recipe.CarpentersBlocks.zs",
 			"folder": "scripts",
 			"installationPolicy":
 			{
