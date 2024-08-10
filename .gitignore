@@ -1,0 +1,35 @@
+*
+
+# Informational
+!README.md
+!CREDITS.md
+!.gitignore
+
+# Modpack configuration, strictly for GitHub
+!modpack_meta
+!modpack_meta/*
+!modpack_meta/.bundle.json
+!modpack_meta/.bundle.json/*
+!modpack_meta/.modify.json
+!modpack_meta/.modify.json/*
+!modpack_meta/.remote.json
+!modpack_meta/.remote.json/*
+!modpack_meta/config
+!modpack_meta/config/*
+!modpack_meta/config/customitems
+!modpack_meta/config/customitems/*
+!modpack_meta/config/etfuturum
+!modpack_meta/config/etfuturum/*
+!modpack_meta/mods
+!modpack_meta/resources
+!modpack_meta/resources/*
+!modpack_meta/resourcepacks
+!modpack_meta/scripts
+!modpack_meta/scripts/*
+!modpack_meta/shaderpacks
+
+# Configs that get shipped with the modpack export
+!.minecraft
+!.minecraft/config
+!.minecraft/config/mod-director
+!.minecraft/config/mod-director/*
