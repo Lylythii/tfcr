@@ -175,6 +175,27 @@
 			"fileId": 2264779
 		},
 		{
+            "comment": "AchievSON | https://www.curseforge.com/minecraft/mc-mods/achieveson/files/2255970",
+			"folder": "mods/1.7.10",
+			"fileName": "MOD ┆ AchievSON.jar",
+			"addonId": 227850,
+			"fileId": 2255970
+		},
+		{
+            "comment": "Better Achievements | https://www.curseforge.com/minecraft/mc-mods/betterachievements/files/2260793",
+			"folder": "mods/1.7.10",
+			"fileName": "MOD ┆ Better Achievements.jar",
+			"addonId": 235716,
+			"fileId": 2260793
+		},
+		{
+            "comment": "Login Shield | https://www.curseforge.com/minecraft/mc-mods/login-shield/files/2580290",
+			"folder": "mods/1.7.10",
+			"fileName": "MOD ┆ Login Shield.jar",
+			"addonId": 233255,
+			"fileId": 2580290
+		},
+		{
             "comment": "Angelica | https://www.curseforge.com/minecraft/mc-mods/angelica/files/5597056",
 			"folder": "mods/1.7.10",
 			"addonId": 988067,
