@@ -85,7 +85,7 @@ var powderCrystalFlux = <ore:powderCrystalFlux>;
 
 /* ================ Books ================ */
 var bookWriteable = <ore:bookWriteable>;
-    bookWriteable.add(<minecraft:bedrock>);
+    bookWriteable.add(<minecraft:writable_book>);
 
 
 /* ================ Obsidian ================ */
@@ -94,3 +94,50 @@ var obsidian = <ore:obsidian>;
 
 var obsidianCrying = <ore:obsidianCrying>;
     obsidianCrying.add(<etfuturum:crying_obsidian>);
+
+
+/* ================ Ingots ================ */
+var ingotIron = <ore:ingotIron>;
+    ingotIron.remove(<terrafirmacraft:item.Wrought Iron Ingot>);
+
+
+/* ================ Nuggets ================ */
+var nuggetGold = <ore:nuggetGold>;
+    nuggetGold.remove(<Thaumcraft:ItemResource:18>);
+
+
+/* ================ Wire ================ */
+var wireTin = <ore:wireTin>;
+    wireTin.remove(<tfctech:item.Tin Wire>);
+
+var wireCopper = <ore:wireCopper>;
+    wireCopper.remove(<tfctech:item.Copper Wire>);
+
+var wireGold = <ore:wireGold>;
+    wireGold.remove(<tfctech:item.Gold Wire>);
+
+var wireAluminium = <ore:wireAluminium>;
+    wireAluminium.remove(<tfctech:item.Aluminum Wire>);
+
+var wireElectrum = <ore:wireElectrum>;
+    wireElectrum.remove(<tfctech:item.Electrum Wire>);
+
+var wireWroughtIron = <ore:wireWroughtIron>;
+    wireWroughtIron.remove(<tfctech:item.Wrought Iron Wire>);
+
+var wireSteel = <ore:wireSteel>;
+    wireSteel.remove(<tfctech:item.Steel Wire>);
+
+var wireRedAlloy = <ore:wireRedAlloy>;
+    wireRedAlloy.remove(<tfctech:item.Red Alloy Wire>);
+
+
+/* ================ Miscellaneous ================ */
+var leather = <ore:leather>;
+    leather.remove(<minecraft:leather>);
+
+var rodBlaze = <ore:rodBlaze>;
+    rodBlaze.remove(<minecraft:blaze_rod>);
+
+var powderBlaze = <ore:powderBlaze>;
+    powderBlaze.remove(<minecraft:blaze_powder>);
