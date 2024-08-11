@@ -1,4 +1,6 @@
 
+/* ================================ Remove Recipes ================================ */
+
 /* Remove Chainmail Recipes */
 recipes.remove(<minecraft:chainmail_helmet>);
 recipes.remove(<minecraft:chainmail_chestplate>);
@@ -9,6 +11,13 @@ recipes.remove(<minecraft:chainmail_boots>);
 recipes.remove(<minecraft:blaze_powder>);
 
 recipes.remove(<minecraft:torch>);
+recipes.remove(<minecraft:fermented_spider_eye>);
+recipes.remove(<minecraft:stick>);
+
+recipes.remove(<minecraft:stained_hardened_clay:*>);
+
+
+/* ================================ Add Recipes ================================ */
 
 /* Enchantment Table */
 recipes.addShaped(<minecraft:enchanting_table>, [

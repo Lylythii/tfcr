@@ -1,4 +1,3 @@
-import mods.Terrafirmacraft.Quern;
 
 // Blaze Rod
 mods.Terrafirmacraft.Quern.addRecipe(<minecraft:blaze_powder> * 3, <minecraft:blaze_rod>);

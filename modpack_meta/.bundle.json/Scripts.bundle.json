@@ -2,6 +2,14 @@
 	"url":
 	[
 		{
+			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/scripts/barrel.Minecraft.zs",
+			"folder": "scripts",
+			"installationPolicy":
+			{
+				"downloadAlways": true
+			}
+		},
+		{
 			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/scripts/barrel.Railcraft.zs",
 			"folder": "scripts",
 			"installationPolicy":
@@ -11,6 +19,14 @@
 		},
 		{
 			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/scripts/enchanting.Fuels.zs",
+			"folder": "scripts",
+			"installationPolicy":
+			{
+				"downloadAlways": true
+			}
+		},
+		{
+			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/scripts/heating.EtFuturum.zs",
 			"folder": "scripts",
 			"installationPolicy":
 			{
@@ -67,6 +83,14 @@
 		},
 		{
 			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/scripts/recipe.CarpentersBlocks.zs",
+			"folder": "scripts",
+			"installationPolicy":
+			{
+				"downloadAlways": true
+			}
+		},
+		{
+			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/scripts/recipe.EtFuturum.zs",
 			"folder": "scripts",
 			"installationPolicy":
 			{
