@@ -210,6 +210,34 @@
 			"fileId": 2282144
 		},
 		{
+            "comment": "Wooden Bucket | https://www.curseforge.com/minecraft/mc-mods/sbm-wooden-buckets/files/2304590",
+			"folder": "mods/1.7.10",
+			"fileName": "MOD ┆ Wooden Bucket.jar",
+			"addonId": 233189,
+			"fileId": 2304590
+		},
+		{
+            "comment": "Open Blocks | https://www.curseforge.com/minecraft/mc-mods/openblocks/files/2386733",
+			"folder": "mods/1.7.10",
+			"fileName": "MOD ┆ Open Blocks.jar",
+			"addonId": 228816,
+			"fileId": 2386733
+		},
+		{
+            "comment": "Open Mods Lib | https://www.curseforge.com/minecraft/mc-mods/openmodslib/files/2765573",
+			"folder": "mods/1.7.10",
+			"fileName": "MOD ┆ Open Mods Lib.jar",
+			"addonId": 228815,
+			"fileId": 2765573
+		},
+		{
+            "comment": "AgriCraft | https://www.curseforge.com/minecraft/mc-mods/agricraft/files/2284130",
+			"folder": "mods/1.7.10",
+			"fileName": "MOD ┆ AgriCraft.jar",
+			"addonId": 225635,
+			"fileId": 2284130
+		},
+		{
             "comment": "Angelica | https://www.curseforge.com/minecraft/mc-mods/angelica/files/5597056",
 			"folder": "mods/1.7.10",
 			"addonId": 988067,

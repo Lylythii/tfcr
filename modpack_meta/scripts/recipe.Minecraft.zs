@@ -26,6 +26,7 @@ recipes.addShaped(<minecraft:enchanting_table>, [
     [<ore:obsidianCrying>, <ore:obsidianCrying>, <ore:obsidianCrying>]
 ]);
 
+/* Brewing Stand */
 recipes.addShaped(<minecraft:brewing_stand>, [
     [<ore:wireWroughtIron>, <ore:wireWroughtIron>, <ore:wireWroughtIron>],
     [null, <ore:rodBlaze>, null],

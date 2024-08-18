@@ -141,3 +141,16 @@ var rodBlaze = <ore:rodBlaze>;
 
 var powderBlaze = <ore:powderBlaze>;
     powderBlaze.remove(<minecraft:blaze_powder>);
+
+
+/* ================ Tools ================ */
+var toolWoodPlane = <ore:toolWoodPlane>;
+    toolWoodPlane.remove(<tfcadditions:item.Bismuth Bronze Planer>);
+    toolWoodPlane.remove(<tfcadditions:item.Black Bronze Planer>);
+    toolWoodPlane.remove(<tfcadditions:item.Black Steel Planer>);
+    toolWoodPlane.remove(<tfcadditions:item.Blue Steel Planer>);
+    toolWoodPlane.remove(<tfcadditions:item.Bronze Planer>);
+    toolWoodPlane.remove(<tfcadditions:item.Copper Planer>);
+    toolWoodPlane.remove(<tfcadditions:item.Wrought Iron Planer>);
+    toolWoodPlane.remove(<tfcadditions:item.Red Steel Planer>);
+    toolWoodPlane.remove(<tfcadditions:item.Steel Planer>);
