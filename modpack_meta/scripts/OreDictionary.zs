@@ -133,6 +133,12 @@ var wireRedAlloy = <ore:wireRedAlloy>;
 
 
 /* ================ Miscellaneous ================ */
+var stickWood = <ore:stickWood>;
+    stickWood.remove(<minecraft:stick>);
+
+var stickBunch = <ore:stickBunch>;
+    stickBunch.remove(<terrafirmastuff:item.stickBunch>);
+
 var leather = <ore:leather>;
     leather.remove(<minecraft:leather>);
 
@@ -141,6 +147,7 @@ var rodBlaze = <ore:rodBlaze>;
 
 var powderBlaze = <ore:powderBlaze>;
     powderBlaze.remove(<minecraft:blaze_powder>);
+
 
 
 /* ================ Tools ================ */

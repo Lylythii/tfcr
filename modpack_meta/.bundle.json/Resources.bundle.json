@@ -8,5 +8,12 @@
 			"addonId": 613152,
 			"fileId": 3796017
 		}
+	],
+	"url":
+	[
+		{
+			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/resources/customitems/textures/items/crystal_flux.png",
+			"folder": "resources/customitems/textures/items"
+		}
 	]
 }

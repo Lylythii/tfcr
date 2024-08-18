@@ -2,6 +2,14 @@
 	"url":
 	[
 		{
+			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/config/bbm/Wooden_Bucket.cfg",
+			"folder": "config/bbm",
+			"installationPolicy":
+			{
+				"downloadAlways": true
+			}
+		},
+		{
 			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/config/etfuturum/blocksitems.cfg",
 			"folder": "config/etfuturum",
 			"installationPolicy":
@@ -65,9 +73,6 @@
 				"downloadAlways": true
 			}
 		},
-
-
-
 		{
 			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/config/Netherlicious/Worldgeneration_Configuration.cfg",
 			"folder": "config/Netherlicious",
@@ -76,9 +81,14 @@
 				"downloadAlways": true
 			}
 		},
-
-		
-		
+		{
+			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/config/OpenBlocks.cfg",
+			"folder": "config",
+			"installationPolicy":
+			{
+				"downloadAlways": true
+			}
+		},
 		{
 			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/config/TFC-Tweaks.cfg",
 			"folder": "config",

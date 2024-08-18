@@ -13,6 +13,7 @@ recipes.remove(<minecraft:blaze_powder>);
 recipes.remove(<minecraft:torch>);
 recipes.remove(<minecraft:fermented_spider_eye>);
 recipes.remove(<minecraft:stick>);
+recipes.remove(<minecraft:leather>);
 
 recipes.remove(<minecraft:stained_hardened_clay:*>);
 
