@@ -1,0 +1,10 @@
+{
+	"packName": "TerraFirmaCraft",
+	"icon":
+	{
+		"path": "modpack_meta/branding/logo.png",
+		"width": 64,
+		"height": 64
+	},
+	"localVersion": "1.7.7.0"
+}

@@ -16,3 +16,5 @@ mods.Terrafirmacraft.ItemHeat.addRecipe(<etfuturum:brown_glazed_terracotta>, <te
 mods.Terrafirmacraft.ItemHeat.addRecipe(<etfuturum:green_glazed_terracotta>, <terrafirmastuff:clayStained:13>, 250, 0.2);
 mods.Terrafirmacraft.ItemHeat.addRecipe(<etfuturum:red_glazed_terracotta>, <terrafirmastuff:clayStained:14>, 250, 0.2);
 mods.Terrafirmacraft.ItemHeat.addRecipe(<etfuturum:black_glazed_terracotta>, <terrafirmastuff:clayStained:15>, 250, 0.2);
+
+mods.Terrafirmacraft.ItemHeat.addRecipe(<etfuturum:chorus_fruit_popped>, <etfuturum:chorus_fruit>, 250, 0.2);

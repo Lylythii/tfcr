@@ -14,6 +14,30 @@
 		{
 			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/resources/customitems/textures/items/crystal_flux.png",
 			"folder": "resources/customitems/textures/items"
+		},
+		{
+			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/branding/logo.png",
+			"folder": "modpack_meta/branding"
+		},
+		{
+			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/resources/terrafirmacraft/texutres/items/tools/bucket/wood/wooden_bucket.png",
+			"fileName": "Wooden Bucket Empty.png",
+			"folder": "modpack_meta/branding"
+		},
+		{
+			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/resources/terrafirmacraft/texutres/items/tools/bucket/wood/wooden_bucket_fresh_water.png",
+			"fileName": "Wooden Bucket Water.png",
+			"folder": "modpack_meta/branding"
+		},
+		{
+			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/resources/terrafirmacraft/texutres/items/tools/bucket/wood/wooden_bucket_salt_water.png",
+			"fileName": "Wooden Bucket Salt Water.png",
+			"folder": "modpack_meta/branding"
+		},
+		{
+			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/resources/terrafirmacraft/texutres/items/tools/bucket/wood/wooden_bucket_milk.png",
+			"fileName": "Wooden Bucket Milk.png",
+			"folder": "modpack_meta/branding"
 		}
 	]
 }

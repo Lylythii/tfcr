@@ -7,3 +7,7 @@ recipes.remove(<Railcraft:cube:8>);
 recipes.remove(<Railcraft:part.gear:*>);
 recipes.remove(<Railcraft:nugget:*>);
 recipes.remove(<Railcraft:ingot:*>);
+
+/* Steel Anvil */
+recipes.remove(<Railcraft:anvil>);
+recipes.addShapeless(<Railcraft:anvil>, [<ore:itemHammer>.transformDamage(1), <ore:plateDoubleBlackSteel>, <terrafirmacraft:Anvil:5>]);

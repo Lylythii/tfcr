@@ -14,8 +14,29 @@ recipes.remove(<minecraft:torch>);
 recipes.remove(<minecraft:fermented_spider_eye>);
 recipes.remove(<minecraft:stick>);
 recipes.remove(<minecraft:leather>);
+recipes.remove(<minecraft:paper>);
 
 recipes.remove(<minecraft:stained_hardened_clay:*>);
+
+furnace.remove(<minecraft:iron_ingot>);
+furnace.remove(<minecraft:gold_ingot>);
+furnace.remove(<minecraft:gold_nugget>);
+furnace.remove(<minecraft:dye:4>);
+furnace.remove(<minecraft:redstone>);
+furnace.remove(<minecraft:emerald>);
+furnace.remove(<minecraft:diamond>);
+furnace.remove(<minecraft:quartz>);
+furnace.remove(<minecraft:coal:*>);
+furnace.remove(<minecraft:stone>);
+furnace.remove(<minecraft:glass>);
+furnace.remove(<minecraft:brick>);
+furnace.remove(<minecraft:cooked_chicken>);
+furnace.remove(<minecraft:cooked_porkchop>);
+furnace.remove(<minecraft:cooked_beef>);
+furnace.remove(<minecraft:baked_potato>);
+furnace.remove(<minecraft:cooked_fished:*>);
+furnace.remove(<minecraft:netherbrick>);
+furnace.remove(<minecraft:sponge>);
 
 
 /* ================================ Add Recipes ================================ */
@@ -33,3 +54,6 @@ recipes.addShaped(<minecraft:brewing_stand>, [
     [null, <ore:rodBlaze>, null],
     [<ore:plateWroughtIron>, <ore:plateDoubleWroughtIron>, <ore:plateWroughtIron>]
 ]);
+
+/* Anvil */
+recipes.addShapeless(<minecraft:anvil>, [<ore:itemHammer>.transformDamage(1), <ore:plateDoubleSteel>, <terrafirmacraft:Anvil:4>]);

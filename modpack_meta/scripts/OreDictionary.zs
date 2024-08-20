@@ -108,28 +108,28 @@ var nuggetGold = <ore:nuggetGold>;
 
 /* ================ Wire ================ */
 var wireTin = <ore:wireTin>;
-    wireTin.remove(<tfctech:item.Tin Wire>);
+    wireTin.add(<tfctech:item.Tin Wire>);
 
 var wireCopper = <ore:wireCopper>;
-    wireCopper.remove(<tfctech:item.Copper Wire>);
+    wireCopper.add(<tfctech:item.Copper Wire>);
 
 var wireGold = <ore:wireGold>;
-    wireGold.remove(<tfctech:item.Gold Wire>);
+    wireGold.add(<tfctech:item.Gold Wire>);
 
 var wireAluminium = <ore:wireAluminium>;
-    wireAluminium.remove(<tfctech:item.Aluminum Wire>);
+    wireAluminium.add(<tfctech:item.Aluminum Wire>);
 
 var wireElectrum = <ore:wireElectrum>;
-    wireElectrum.remove(<tfctech:item.Electrum Wire>);
+    wireElectrum.add(<tfctech:item.Electrum Wire>);
 
 var wireWroughtIron = <ore:wireWroughtIron>;
-    wireWroughtIron.remove(<tfctech:item.Wrought Iron Wire>);
+    wireWroughtIron.add(<tfctech:item.Wrought Iron Wire>);
 
 var wireSteel = <ore:wireSteel>;
-    wireSteel.remove(<tfctech:item.Steel Wire>);
+    wireSteel.add(<tfctech:item.Steel Wire>);
 
 var wireRedAlloy = <ore:wireRedAlloy>;
-    wireRedAlloy.remove(<tfctech:item.Red Alloy Wire>);
+    wireRedAlloy.add(<tfctech:item.Red Alloy Wire>);
 
 
 /* ================ Miscellaneous ================ */
@@ -137,27 +137,75 @@ var stickWood = <ore:stickWood>;
     stickWood.remove(<minecraft:stick>);
 
 var stickBunch = <ore:stickBunch>;
-    stickBunch.remove(<terrafirmastuff:item.stickBunch>);
+    stickBunch.add(<terrafirmastuff:item.stickBunch>);
 
 var leather = <ore:leather>;
     leather.remove(<minecraft:leather>);
 
 var rodBlaze = <ore:rodBlaze>;
-    rodBlaze.remove(<minecraft:blaze_rod>);
+    rodBlaze.add(<minecraft:blaze_rod>);
 
 var powderBlaze = <ore:powderBlaze>;
-    powderBlaze.remove(<minecraft:blaze_powder>);
+    powderBlaze.add(<minecraft:blaze_powder>);
 
 
 
 /* ================ Tools ================ */
 var toolWoodPlane = <ore:toolWoodPlane>;
-    toolWoodPlane.remove(<tfcadditions:item.Bismuth Bronze Planer>);
-    toolWoodPlane.remove(<tfcadditions:item.Black Bronze Planer>);
-    toolWoodPlane.remove(<tfcadditions:item.Black Steel Planer>);
-    toolWoodPlane.remove(<tfcadditions:item.Blue Steel Planer>);
-    toolWoodPlane.remove(<tfcadditions:item.Bronze Planer>);
-    toolWoodPlane.remove(<tfcadditions:item.Copper Planer>);
-    toolWoodPlane.remove(<tfcadditions:item.Wrought Iron Planer>);
-    toolWoodPlane.remove(<tfcadditions:item.Red Steel Planer>);
-    toolWoodPlane.remove(<tfcadditions:item.Steel Planer>);
+    toolWoodPlane.add(<tfcadditions:item.Bismuth Bronze Planer>);
+    toolWoodPlane.add(<tfcadditions:item.Black Bronze Planer>);
+    toolWoodPlane.add(<tfcadditions:item.Black Steel Planer>);
+    toolWoodPlane.add(<tfcadditions:item.Blue Steel Planer>);
+    toolWoodPlane.add(<tfcadditions:item.Bronze Planer>);
+    toolWoodPlane.add(<tfcadditions:item.Copper Planer>);
+    toolWoodPlane.add(<tfcadditions:item.Wrought Iron Planer>);
+    toolWoodPlane.add(<tfcadditions:item.Red Steel Planer>);
+    toolWoodPlane.add(<tfcadditions:item.Steel Planer>);
+
+/* ================ Planed Lumber ================ */
+var woodLumberPlaned = <ore:woodLumberPlaned>;
+    woodLumberPlaned.add(<tfcadditions:item.Plank Planed:*>);
+
+/* ================ Dye ================ */
+
+var dye = <ore:dye>;
+    dye.remove(<minecraft:dye:4>);
+    dye.remove(<minecraft:dye>);
+
+var dyeWhite = <ore:dyeWhite>;
+    dyeWhite.remove(<minecraft:dye:15>);
+    dyeWhite.remove(<terrafirmacraft:item.dyePowder:15>);
+
+var dyeOrange = <ore:dyeOrange>;
+
+var dyeMagenta = <ore:dyeMagenta>;
+
+var dyeLightBlue = <ore:dyeLightBlue>;
+
+var dyeYellow = <ore:dyeYellow>;
+
+var dyeLime = <ore:dyeLime>;
+
+var dyePink = <ore:dyePink>;
+
+var dyeGray = <ore:dyeGray>;
+
+var dyeLightGray = <ore:dyeLightGray>;
+
+var dyeCyan = <ore:dyeCyan>;
+
+var dyePurple = <ore:dyePurple>;
+
+var dyeBlue = <ore:dyeBlue>;
+    dyeBlue.remove(<minecraft:dye:4>);
+    dyeBlue.remove(<terrafirmacraft:item.Powder:6>);
+
+var dyeBrown = <ore:dyeBrown>;
+    dyeBrown.remove(<minecraft:dye:3>);
+
+var dyeGreen = <ore:dyeGreen>;
+
+var dyeRed = <ore:dyeRed>;
+
+var dyeBlack = <ore:dyeBlack>;
+    dyeBlack.remove(<minecraft:dye>);
