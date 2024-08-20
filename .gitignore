@@ -17,6 +17,8 @@
 !modpack_meta/.remote.json/*
 !modpack_meta/config
 !modpack_meta/config/*
+!modpack_meta/config/bbm
+!modpack_meta/config/bbm/*
 !modpack_meta/config/customitems
 !modpack_meta/config/customitems/*
 !modpack_meta/config/etfuturum
