@@ -145,7 +145,7 @@
 			"folder": "mods/1.7.10",
 			"fileName": "MOD ┆ Custom Items.jar",
 			"addonId": 224312,
-			"fileId": 2311475
+			"fileId": 224312
 		},
 		{
             "comment": "Thaumcraft | https://www.curseforge.com/minecraft/mc-mods/thaumcraft/files/2227552",
@@ -385,6 +385,13 @@
 			"fileId": 2359471
 		},
 		{
+            "comment": "Flaxbeards Steampower | https://www.curseforge.com/minecraft/mc-mods/flaxbeards-steam-power/files/2301651",
+			"folder": "mods/1.7.10",
+			"fileName": "MOD ┆ Flaxbeards Steampower.jar",
+			"addonId": 224867,
+			"fileId": 2301651
+		},
+		{
             "comment": "Angelica | https://www.curseforge.com/minecraft/mc-mods/angelica/files/5597056",
 			"folder": "mods/1.7.10",
 			"addonId": 988067,
@@ -403,7 +410,7 @@
             "comment": "TFC Engineer | https://github.com/DrFair/TFCEngineer/releases",
 			"folder": "mods/1.7.10",
 			"fileName": "TFC ADDON ┆ TFC Engineer.jar",
-			"url": "https://github.com/DrFair/TFCEngineer/releases/download/v.1.1.2/TFCEngineer-1.7.10-1.1.2.jar"
+			"url": "https://github.com/DrFair/TFCEngineer/releases/download/v.1.1.1/TFCEngineer-1.7.10-1.1.1.jar"
 		},
 		{
             "comment": "GTNHLib | https://github.com/GTNewHorizons/GTNHLib/releases",

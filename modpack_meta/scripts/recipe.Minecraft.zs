@@ -15,6 +15,7 @@ recipes.remove(<minecraft:fermented_spider_eye>);
 recipes.remove(<minecraft:stick>);
 recipes.remove(<minecraft:leather>);
 recipes.remove(<minecraft:paper>);
+recipes.remove(<minecraft:sugar>);
 
 recipes.remove(<minecraft:stained_hardened_clay:*>);
 
@@ -37,6 +38,7 @@ furnace.remove(<minecraft:baked_potato>);
 furnace.remove(<minecraft:cooked_fished:*>);
 furnace.remove(<minecraft:netherbrick>);
 furnace.remove(<minecraft:sponge>);
+furnace.remove(<minecraft:lit_pumpkin>);
 
 
 /* ================================ Add Recipes ================================ */

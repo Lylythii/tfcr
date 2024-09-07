@@ -2,6 +2,22 @@
 	"url":
 	[
 		{
+			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/config/agricraft/Configuration.cfg",
+			"folder": "config/agricraft",
+			"installationPolicy":
+			{
+				"downloadAlways": true
+			}
+		},
+		{
+			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/config/agricraft/CustomCrops.txt",
+			"folder": "config/agricraft",
+			"installationPolicy":
+			{
+				"downloadAlways": true
+			}
+		},
+		{
 			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/config/bbm/Wooden_Bucket.cfg",
 			"folder": "config/bbm",
 			"installationPolicy":
@@ -115,6 +131,14 @@
 		},
 		{
 			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/config/TFC-Tweaks.cfg",
+			"folder": "config",
+			"installationPolicy":
+			{
+				"downloadAlways": true
+			}
+		},
+		{
+			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/config/TinkersConstruct.cfg",
 			"folder": "config",
 			"installationPolicy":
 			{

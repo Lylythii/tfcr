@@ -8,9 +8,9 @@ recipes.addShaped(<CarpentersBlocks:blockCarpentersBlock> * 2, [
 ]);
 
 /* Remove Torches as they're cheaty */
-recipes.remove(<CarpentersBlocks:blockCarpentersTorch>);
+//recipes.remove(<CarpentersBlocks:blockCarpentersTorch>);
 /* Beds break the daylight cycle irreversibly. DANGEROUS to re-enable. */
-recipes.remove(<CarpentersBlocks:blockCarpentersBed>);
+//recipes.remove(<CarpentersBlocks:blockCarpentersBed>);
 
 
 /* Change tile recipe to use oreDict */

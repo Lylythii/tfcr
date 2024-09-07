@@ -106,6 +106,14 @@ var nuggetGold = <ore:nuggetGold>;
     nuggetGold.remove(<Thaumcraft:ItemResource:18>);
 
 
+/* ================ Gems ================ */
+var gemDiamond = <ore:gemDiamond>;
+    gemDiamond.remove(<minecraft:diamond>);
+
+var gemEmerald = <ore:gemEmerald>;
+    gemEmerald.remove(<minecraft:emerald>);
+
+
 /* ================ Wire ================ */
 var wireTin = <ore:wireTin>;
     wireTin.add(<tfctech:item.Tin Wire>);
@@ -141,6 +149,9 @@ var stickBunch = <ore:stickBunch>;
 
 var leather = <ore:leather>;
     leather.remove(<minecraft:leather>);
+
+var materialLeather = <ore:materialLeather>;
+    materialLeather.remove(<minecraft:leather>);
 
 var rodBlaze = <ore:rodBlaze>;
     rodBlaze.add(<minecraft:blaze_rod>);
