@@ -36,6 +36,13 @@
 !modpack_meta/resources/customitems/textures/*
 !modpack_meta/resources/customitems/textures/blocks/*
 !modpack_meta/resources/customitems/textures/items/*
+!modpack_meta/resources/terrafirmacraft/*
+!modpack_meta/resources/terrafirmacraft/textures/*
+!modpack_meta/resources/terrafirmacraft/textures/items/*
+!modpack_meta/resources/terrafirmacraft/textures/items/tools/*
+!modpack_meta/resources/terrafirmacraft/textures/items/tools/bucket/*
+!modpack_meta/resources/terrafirmacraft/textures/items/tools/bucket/wood/*
+!modpack_meta/resources/terrafirmacraft/textures/blocks/*
 !modpack_meta/resourcepacks
 !modpack_meta/scripts
 !modpack_meta/scripts/*
