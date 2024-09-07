@@ -21,6 +21,8 @@
 !modpack_meta/config/*
 !modpack_meta/config/bbm
 !modpack_meta/config/bbm/*
+!modpack_meta/config/agricraft
+!modpack_meta/config/agricraft/*
 !modpack_meta/config/customitems
 !modpack_meta/config/customitems/*
 !modpack_meta/config/etfuturum
