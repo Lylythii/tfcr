@@ -287,6 +287,20 @@
 			"fileId": 2224003
 		},
 		{
+            "comment": "Psychidelicraft | https://www.curseforge.com/minecraft/mc-mods/psychedelicraft/files/2240299",
+			"folder": "mods/1.7.10",
+			"fileName": "MOD ┆ Psychidelicraft.jar",
+			"addonId": 224601,
+			"fileId": 2240299
+		},
+		{
+            "comment": "IVToolkit | https://www.curseforge.com/minecraft/mc-mods/ivtoolkit/files/2294442",
+			"folder": "mods/1.7.10",
+			"fileName": "MOD ┆ IVToolkit.jar",
+			"addonId": 224535,
+			"fileId": 2294442
+		},
+		{
             "comment": "Angelica | https://www.curseforge.com/minecraft/mc-mods/angelica/files/5597056",
 			"folder": "mods/1.7.10",
 			"addonId": 988067,
