@@ -20,6 +20,14 @@ recipes.remove(<minecraft:sugar>);
 recipes.remove(<minecraft:stained_hardened_clay:*>);
 
 recipes.remove(<minecraft:lit_pumpkin>);
+recipes.remove(<minecraft:iron_ingot>);
+recipes.remove(<minecraft:gold_ingot>);
+recipes.remove(<minecraft:diamond>);
+recipes.remove(<minecraft:emerald>);
+recipes.remove(<minecraft:iron_block>);
+recipes.remove(<minecraft:gold_block>);
+recipes.remove(<minecraft:diamond_block>);
+recipes.remove(<minecraft:emerald_block>);
 
 furnace.remove(<minecraft:iron_ingot>);
 furnace.remove(<minecraft:gold_ingot>);
@@ -60,3 +68,6 @@ recipes.addShaped(<minecraft:brewing_stand>, [
 
 /* Anvil */
 recipes.addShapeless(<minecraft:anvil>, [<ore:itemHammer>.transformDamage(1), <ore:plateDoubleSteel>, <terrafirmacraft:Anvil:4>]);
+
+/* Remove Tinkers Construct aluminium brass clock recipe */
+recipes.removeShaped(<minecraft:clock>, [[null, <TConstruct:materials:14>, null], [<TConstruct:materials:14>, <minecraft:redstone>, <TConstruct:materials:14>], [null, <TConstruct:materials:14>, null]]);

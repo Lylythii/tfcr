@@ -392,6 +392,20 @@
 			"fileId": 2301651
 		},
 		{
+            "comment": "Target Dummy | https://www.curseforge.com/minecraft/mc-mods/mmmmmmmmmmmm/files/2265493",
+			"folder": "mods/1.7.10",
+			"fileName": "MOD ┆ Target Dummy.jar",
+			"addonId": 225738,
+			"fileId": 2265493
+		},
+		{
+            "comment": "Hardcore Wither | https://www.curseforge.com/minecraft/mc-mods/hardcore-wither/files/2346614",
+			"folder": "mods/1.7.10",
+			"fileName": "MOD ┆ Hardcore Wither.jar",
+			"addonId": 237407,
+			"fileId": 2346614
+		},
+		{
             "comment": "Angelica | https://www.curseforge.com/minecraft/mc-mods/angelica/files/5597056",
 			"folder": "mods/1.7.10",
 			"addonId": 988067,

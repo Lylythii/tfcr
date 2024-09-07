@@ -38,6 +38,8 @@ furnace.remove(<etfuturum:black_glazed_terracotta>);
 
 recipes.remove(<etfuturum:dye:*>);
 
+recipes.remove(<etfuturum:copper_ingot>);
+
 furnace.remove(<etfuturum:deepslate>);
 furnace.remove(<etfuturum:chorus_fruit_popped>);
 furnace.remove(<etfuturum:smooth_sandstone>);
@@ -61,3 +63,19 @@ recipes.addShaped(<minecraft:brewing_stand>, [
     [null, <ore:rodBlaze>, null],
     [<ore:plateWroughtIron>, <ore:plateDoubleWroughtIron>, <ore:plateWroughtIron>]
 ]);
+
+/* Packed Mud */
+recipes.remove(<etfuturum:packed_mud>);
+recipes.addShapeless(<etfuturum:packed_mud>, [<etfuturum:mud>, <terrafirmacraft:item.Straw>]);
+/* Mud */
+recipes.addShapeless(<etfuturum:mud>, [<ore:blockDirt>, <tfcm:item.BucketHotWater>.giveBack(<terrafirmacraft:item.Wooden Bucket Empty>)]);
+
+/* Copper */
+recipes.remove(<etfuturum:copper_block>);
+recipes.addShaped(<etfuturum:copper_block>, [
+    [<ore:ingotCopper>, <ore:ingotCopper>, <ore:ingotCopper>],
+    [<ore:ingotCopper>, <ore:ingotCopper>, <ore:ingotCopper>],
+    [<ore:ingotCopper>, <ore:ingotCopper>, <ore:ingotCopper>]
+]);
+
+recipes.addShaped(<etfuturum:totem_of_undying>, [[<ore:powderBlaze>, <ore:plateRoseGold>, <ore:powderBlaze>], [<ore:plateRoseGold>, <tfcagedbooze:item.AgedBeer>, <ore:plateRoseGold>], [<ore:powderBlaze>, <ore:plateRoseGold>, <ore:powderBlaze>]]);
