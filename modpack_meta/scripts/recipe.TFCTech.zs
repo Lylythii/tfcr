@@ -15,3 +15,8 @@ recipes.addShaped(<tfctech:item.Wire Draw Bench>, [
     [<ore:woodLumber>, <ore:woodLumber>, <ore:woodLumber>],
     [<ore:woodLumberPlaned>, null, <ore:woodLumberPlaned>]
 ]);
+
+/* Remove ceramic smelting recipes from furnaces */
+furnace.remove(<tfctech:item.Sleeve Mold:1>);
+furnace.remove(<tfctech:item.Gear Piece Mold:1>);
+furnace.remove(<tfctech:item.Latex Bowl:1>);
