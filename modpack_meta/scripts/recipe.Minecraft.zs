@@ -19,6 +19,8 @@ recipes.remove(<minecraft:sugar>);
 
 recipes.remove(<minecraft:stained_hardened_clay:*>);
 
+recipes.remove(<minecraft:lit_pumpkin>);
+
 furnace.remove(<minecraft:iron_ingot>);
 furnace.remove(<minecraft:gold_ingot>);
 furnace.remove(<minecraft:gold_nugget>);
@@ -38,7 +40,6 @@ furnace.remove(<minecraft:baked_potato>);
 furnace.remove(<minecraft:cooked_fished:*>);
 furnace.remove(<minecraft:netherbrick>);
 furnace.remove(<minecraft:sponge>);
-furnace.remove(<minecraft:lit_pumpkin>);
 
 
 /* ================================ Add Recipes ================================ */
