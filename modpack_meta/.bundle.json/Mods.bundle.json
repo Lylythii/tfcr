@@ -113,6 +113,13 @@
 			"fileId": 2838720
 		},
 		{
+            "comment": "ModTweaker | https://www.curseforge.com/minecraft/mc-mods/modtweaker/files/2313730",
+			"folder": "mods/1.7.10",
+			"fileName": "MOD ┆ ModTweaker.jar",
+			"addonId": 220954,
+			"fileId": 2313730
+		},
+		{
             "comment": "Carpenters Blocks | https://www.curseforge.com/minecraft/mc-mods/carpenters-blocks/files/2719376",
 			"folder": "mods/1.7.10",
 			"fileName": "MOD ┆ Carpenters Blocks.jar",
@@ -236,6 +243,48 @@
 			"fileName": "MOD ┆ AgriCraft.jar",
 			"addonId": 225635,
 			"fileId": 2284130
+		},
+		{
+            "comment": "Modern Splash | https://www.curseforge.com/minecraft/mc-mods/modern-splash/files/4347198",
+			"folder": "mods/1.7.10",
+			"fileName": "MOD ┆ Modern Splash.jar",
+			"addonId": 629058,
+			"fileId": 4347198
+		},
+		{
+            "comment": "Modern Keybinding | https://www.curseforge.com/minecraft/mc-mods/modern-keybinding/files/4034362",
+			"folder": "mods/1.7.10",
+			"fileName": "MOD ┆ Modern Keybinding.jar",
+			"addonId": 686846,
+			"fileId": 4034362
+		},
+		{
+            "comment": "Mouse Tweaks | https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks/files/2209265",
+			"folder": "mods/1.7.10",
+			"fileName": "MOD ┆ Mouse Tweaks.jar",
+			"addonId": 60089,
+			"fileId": 2209265
+		},
+		{
+            "comment": "Journey Map | https://www.curseforge.com/minecraft/mc-mods/journeymap/files/5526506",
+			"folder": "mods/1.7.10",
+			"fileName": "MOD ┆ Journey Map.jar",
+			"addonId": 32274,
+			"fileId": 5526506
+		},
+		{
+            "comment": "Ex Nihilo | https://www.curseforge.com/minecraft/mc-mods/ex-nihilo/files/2316201",
+			"folder": "mods/1.7.10",
+			"fileName": "MOD ┆ Ex Nihilo.jar",
+			"addonId": 221696,
+			"fileId": 2316201
+		},
+		{
+            "comment": "Sound Filters | https://www.curseforge.com/minecraft/mc-mods/sound-filters/files/2224003",
+			"folder": "mods/1.7.10",
+			"fileName": "MOD ┆ Sound Filters.jar",
+			"addonId": 222789,
+			"fileId": 2224003
 		},
 		{
             "comment": "Angelica | https://www.curseforge.com/minecraft/mc-mods/angelica/files/5597056",

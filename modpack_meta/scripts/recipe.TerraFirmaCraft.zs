@@ -28,3 +28,8 @@ furnace.remove(<terrafirmacraft:item.Hammer Mold:1>);
 furnace.remove(<terrafirmacraft:item.Chisel Mold:1>);
 furnace.remove(<terrafirmacraft:item.Axe Mold:1>);
 furnace.remove(<terrafirmacraft:item.Mold:1>);
+
+
+recipes.remove(<terrafirmacraft:item.dyePowder>);
+recipes.remove(<terrafirmacraft:item.dyePowder:1>);
+recipes.remove(<terrafirmacraft:item.dyePowder:11>);

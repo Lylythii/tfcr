@@ -183,6 +183,7 @@ var dyeMagenta = <ore:dyeMagenta>;
 var dyeLightBlue = <ore:dyeLightBlue>;
 
 var dyeYellow = <ore:dyeYellow>;
+    dyeYellow.remove(<terrafirmacraft:item.Powder:7>);
 
 var dyeLime = <ore:dyeLime>;
 
@@ -202,10 +203,12 @@ var dyeBlue = <ore:dyeBlue>;
 
 var dyeBrown = <ore:dyeBrown>;
     dyeBrown.remove(<minecraft:dye:3>);
+    dyeBrown.remove(<tfcm:item.BrownDye>);
 
 var dyeGreen = <ore:dyeGreen>;
 
 var dyeRed = <ore:dyeRed>;
+    dyeRed.remove(<terrafirmacraft:item.Powder:5>);
 
 var dyeBlack = <ore:dyeBlack>;
     dyeBlack.remove(<minecraft:dye>);

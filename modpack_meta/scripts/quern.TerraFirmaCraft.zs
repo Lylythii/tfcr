@@ -3,6 +3,10 @@
 mods.Terrafirmacraft.Quern.removeRecipe(<terrafirmacraft:item.Powder:6> * 4, <terrafirmacraft:item.Ore:34>);
 mods.Terrafirmacraft.Quern.addRecipe(<terrafirmacraft:item.Powder:6> * 2, <minecraft:dye:4>);
 
+/* Power -> Dye */
+mods.Terrafirmacraft.Quern.addRecipe(<terrafirmacraft:item.dyePowder:11> * 2, <terrafirmacraft:item.Powder:7>);     //Yellow
+mods.Terrafirmacraft.Quern.addRecipe(<terrafirmacraft:item.dyePowder:1> * 2, <terrafirmacraft:item.Powder:5>);      //Red
+
 
 
 /* Cobble -> Gravel */
