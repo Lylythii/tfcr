@@ -82,6 +82,14 @@
 			}
 		},
 		{
+			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/config/CarpentersBlocks.cfg",
+			"folder": "config",
+			"installationPolicy":
+			{
+				"downloadAlways": true
+			}
+		},
+		{
 			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/config/CookingWithTFC.cfg",
 			"folder": "config",
 			"installationPolicy":
