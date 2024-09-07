@@ -301,6 +301,76 @@
 			"fileId": 2294442
 		},
 		{
+            "comment": "Hardcore Darkness | https://www.curseforge.com/minecraft/mc-mods/hardcore-darkness/files/2262352",
+			"folder": "mods/1.7.10",
+			"fileName": "MOD ┆ Hardcore Darkness.jar",
+			"addonId": 225957,
+			"fileId": 2262352
+		},
+		{
+            "comment": "YDM's Weapon Master | https://www.curseforge.com/minecraft/mc-mods/ydms-weapon-master/files/5051782",
+			"folder": "mods/1.7.10",
+			"fileName": "MOD ┆ YDM's Weapon Master.jar",
+			"addonId": 608235,
+			"fileId": 5051782
+		},
+		{
+            "comment": "In-Game Account Switcher | https://www.curseforge.com/minecraft/mc-mods/in-game-account-switcher/files/3993181",
+			"folder": "mods/1.7.10",
+			"fileName": "MOD ┆ In-Game Account Switcher.jar",
+			"addonId": 232676,
+			"fileId": 3993181
+		},
+		{
+            "comment": "Applied Energistics 2 | https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2/files/2296430",
+			"folder": "mods/1.7.10",
+			"fileName": "MOD ┆ Applied Energistics 2.jar",
+			"addonId": 223794,
+			"fileId": 2296430
+		},
+		{
+            "comment": "Wireless Crafting Terminal | https://www.curseforge.com/minecraft/mc-mods/wireless-crafting-terminal/files/2460354",
+			"folder": "mods/1.7.10",
+			"fileName": "MOD ┆ Wireless Crafting Terminal.jar",
+			"addonId": 244559,
+			"fileId": 2460354
+		},
+		{
+            "comment": "Neat | https://www.curseforge.com/minecraft/mc-mods/neat/files/2268525",
+			"folder": "mods/1.7.10",
+			"fileName": "MOD ┆ Neat.jar",
+			"addonId": 238372,
+			"fileId": 2268525
+		},
+		{
+            "comment": "Crafting Tweaks | https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks/files/2457094",
+			"folder": "mods/1.7.10",
+			"fileName": "MOD ┆ Crafting Tweaks.jar",
+			"addonId": 233071,
+			"fileId": 2457094
+		},
+		{
+            "comment": "Tinkers' Construct | https://www.curseforge.com/minecraft/mc-mods/tinkers-construct/files/2277012",
+			"folder": "mods/1.7.10",
+			"fileName": "MOD ┆ Tinkers' Construct.jar",
+			"addonId": 74072,
+			"fileId": 2277012
+		},
+		{
+            "comment": "TiConAutoToolStation | https://www.curseforge.com/minecraft/mc-mods/ticonautotoolstation/files/2293397",
+			"folder": "mods/1.7.10",
+			"fileName": "MOD ┆ TiConAutoToolStation.jar",
+			"addonId": 237533,
+			"fileId": 2293397
+		},
+		{
+            "comment": "CleanView | https://www.curseforge.com/minecraft/mc-mods/cleanview/files/2224179",
+			"folder": "mods/1.7.10",
+			"fileName": "MOD ┆ CleanView.jar",
+			"addonId": 226889,
+			"fileId": 2224179
+		},
+		{
             "comment": "Angelica | https://www.curseforge.com/minecraft/mc-mods/angelica/files/5597056",
 			"folder": "mods/1.7.10",
 			"addonId": 988067,
