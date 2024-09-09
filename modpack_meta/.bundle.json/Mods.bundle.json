@@ -406,6 +406,20 @@
 			"fileId": 2346614
 		},
 		{
+            "comment": "IndustrialCraft | https://www.curseforge.com/minecraft/mc-mods/industrial-craft/files/2353971",
+			"folder": "mods/1.7.10",
+			"fileName": "MOD ┆ IndustrialCraft.jar",
+			"addonId": 242638,
+			"fileId": 2353971
+		},
+		{
+            "comment": "Its The Little Things | https://www.curseforge.com/minecraft/mc-mods/its-the-little-things/files/3335234",
+			"folder": "mods/1.7.10",
+			"fileName": "MOD ┆ Its The Little Things.jar",
+			"addonId": 232791,
+			"fileId": 3335234
+		},
+		{
             "comment": "Angelica | https://www.curseforge.com/minecraft/mc-mods/angelica/files/5597056",
 			"folder": "mods/1.7.10",
 			"addonId": 988067,

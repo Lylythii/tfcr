@@ -4,6 +4,16 @@
             "name":"Crystal Flux",
             "textureName":"crystal_flux.png",
             "creativeTab":"TFCN Miscellaneous"
+        },
+        {
+            "name":"Carpenters Shaft",
+            "textureName":"carpenters_shaft.png",
+            "creativeTab":"TFCN Miscellaneous"
+        },
+        {
+            "name":"Carpenters Lumber",
+            "textureName":"carpenters_lumber.png",
+            "creativeTab":"TFCN Miscellaneous"
         }
     ]
 }

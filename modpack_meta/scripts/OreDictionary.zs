@@ -337,6 +337,9 @@ var rodBlaze = <ore:rodBlaze>;
 var powderBlaze = <ore:powderBlaze>;
     powderBlaze.add(<minecraft:blaze_powder>);
 
+var lumpClay = <ore:lumpClay>;
+    lumpClay.remove(<minecraft:clay_ball>);
+
 
 
 /* ================ Tools ================ */

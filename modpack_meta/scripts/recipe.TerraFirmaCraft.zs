@@ -5,6 +5,12 @@ recipes.remove(<terrafirmacraft:SpawnMeter>);
 /* Bamboo -> Sticks */
 recipes.addShapeless(<terrafirmacraft:item.stick> * 2, [<etfuturum:bamboo>, <ore:itemKnife>.transformDamage(1)]);
 
+/* Clay Block -> Clay Ball */
+recipes.addShapeless(<terrafirmacraft:item.Clay> * 4, [<terrafirmastuff:clayRaw>]);
+
+/* Cheaper Fire Clay */
+recipes.addShapeless(<terrafirmacraft:item.Clay:1>, [<ore:lumpClay>, <ore:dustKaolinite>, <ore:dustGraphite>]);
+
 /* Change Wooden Bucket recipe to require planed planks */
 recipes.remove(<terrafirmacraft:item.Wooden Bucket Empty>);
 recipes.addShaped(<terrafirmacraft:item.Wooden Bucket Empty>, [
