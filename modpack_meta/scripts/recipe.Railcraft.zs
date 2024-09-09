@@ -28,5 +28,12 @@ recipes.addShaped(<Railcraft:anvil>, [
 
 /* Wire Support Frame recipes using Nickel */
 recipes.remove(<Railcraft:frame>);
-recipes.addShaped(<Railcraft:frame> * 3, [[<ore:plateDenseNickel>, <ore:plateDenseNickel>, <ore:plateDenseNickel>], [<Railcraft:part.rebar>, <Railcraft:part.rebar>, <Railcraft:part.rebar>], [<Railcraft:part.rebar>, <Railcraft:part.rebar>, <Railcraft:part.rebar>]]);
-recipes.addShaped(<Railcraft:frame> * 3, [[<ore:plateNickel>, <ore:plateNickel>, <ore:plateNickel>], [<Railcraft:part.rebar>, <Railcraft:part.rebar>, <Railcraft:part.rebar>]]);
+recipes.addShaped(<Railcraft:frame> * 6, [
+    [<ore:plateDenseNickel>, <ore:plateDenseNickel>, <ore:plateDenseNickel>],
+    [<Railcraft:part.rebar>, <Railcraft:part.rebar>, <Railcraft:part.rebar>],
+    [<Railcraft:part.rebar>, <Railcraft:part.rebar>, <Railcraft:part.rebar>]
+]);
+recipes.addShaped(<Railcraft:frame> * 3, [
+    [<ore:plateNickel>, <ore:plateNickel>, <ore:plateNickel>],
+    [<Railcraft:part.rebar>, <Railcraft:part.rebar>, <Railcraft:part.rebar>]
+]);

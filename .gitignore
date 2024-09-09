@@ -50,6 +50,8 @@
 !modpack_meta/resources/railcraft/textures/*
 !modpack_meta/resources/railcraft/textures/blocks
 !modpack_meta/resources/railcraft/textures/blocks/*
+!modpack_meta/resources/railcraft/textures/items
+!modpack_meta/resources/railcraft/textures/items/*
 !modpack_meta/resources/terrafirmacraft
 !modpack_meta/resources/terrafirmacraft/*
 !modpack_meta/resources/terrafirmacraft/textures

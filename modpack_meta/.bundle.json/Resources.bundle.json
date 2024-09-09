@@ -41,7 +41,11 @@
 		},
 		{
 			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/resources/railcraft/textures/blocks/frame.png",
-			"folder": "railcraft/textures/blocks"
+			"folder": "resources/railcraft/textures/blocks"
+		},
+		{
+			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/resources/railcraft/textures/items/part.rebar.png",
+			"folder": "resources/railcraft/textures/items"
 		}
 	]
 }

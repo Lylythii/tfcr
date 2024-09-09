@@ -186,7 +186,7 @@ var sheetPewter = <ore:sheetPewter>;
     sheetPewter.add(<tfcpewter:item.pewterSheet>);
 
 var sheetAluminium = <ore:sheetAluminium>;
-    sheetAluminium.add(<tfctech:item.Aluminium Sheet>);
+    sheetAluminium.add(<tfctech:item.Aluminum Sheet>);
 
 var sheetElectrum = <ore:sheetElectrum>;
     sheetElectrum.add(<tfctech:item.Electrum Sheet>);
@@ -269,7 +269,7 @@ var sheetDoublePewter = <ore:sheetDoublePewter>;
     sheetDoublePewter.add(<tfcpewter:item.pewterSheet>);
 
 var sheetDoubleAluminium = <ore:sheetDoubleAluminium>;
-    sheetDoubleAluminium.add(<tfctech:item.Aluminium Double Sheet>);
+    sheetDoubleAluminium.add(<tfctech:item.Aluminum Double Sheet>);
 
 var sheetDoubleElectrum = <ore:sheetDoubleElectrum>;
     sheetDoubleElectrum.add(<tfctech:item.Electrum Double Sheet>);
@@ -359,7 +359,7 @@ var platePewter = <ore:platePewter>;
     platePewter.remove(<tfcpewter:item.pewterSheet>);
 
 var plateAluminium = <ore:plateAluminium>;
-    plateAluminium.remove(<tfctech:item.Aluminium Sheet>);
+    plateAluminium.remove(<tfctech:item.Aluminum Sheet>);
 
 var plateElectrum = <ore:plateElectrum>;
     plateElectrum.remove(<tfctech:item.Electrum Sheet>);
@@ -372,9 +372,11 @@ var plateInvar = <ore:plateInvar>;
 
 
 var plateIron = <ore:plateIron>;
+    plateIron.remove(<terrafirmacraft:item.Wrought Iron Sheet>);
     plateIron.remove(<tfctech:item.Wrought Iron Plate>);
 
 var plateSteamcraftIron = <ore:plateSteamcraftIron>;
+    plateSteamcraftIron.remove(<terrafirmacraft:item.Wrought Iron Sheet>);
     plateSteamcraftIron.remove(<tfctech:item.Wrought Iron Plate>);
 
 
@@ -449,7 +451,7 @@ var plateDoublePewter = <ore:plateDoublePewter>;
     plateDoublePewter.remove(<tfcpewter:item.pewterSheet>);
 
 var plateDoubleAluminium = <ore:plateDoubleAluminium>;
-    plateDoubleAluminium.remove(<tfctech:item.Aluminium Double Sheet>);
+    plateDoubleAluminium.remove(<tfctech:item.Aluminum Double Sheet>);
 
 var plateDoubleElectrum = <ore:plateDoubleElectrum>;
     plateDoubleElectrum.remove(<tfctech:item.Electrum Double Sheet>);

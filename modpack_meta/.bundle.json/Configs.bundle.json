@@ -98,6 +98,22 @@
 			}
 		},
 		{
+			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/config/ic2.ini",
+			"folder": "config",
+			"installationPolicy":
+			{
+				"downloadAlways": true
+			}
+		},
+		{
+			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/config/itlt.cfg",
+			"folder": "config",
+			"installationPolicy":
+			{
+				"downloadAlways": true
+			}
+		},
+		{
 			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/config/railcraft/blocks.cfg",
 			"folder": "config/railcraft",
 			"installationPolicy":
