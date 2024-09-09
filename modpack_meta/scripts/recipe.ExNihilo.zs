@@ -11,9 +11,9 @@ recipes.addShaped(<exnihilo:doll>, [
 ]);
 recipes.remove(<exnihilo:doll_creepy>);
 recipes.addShaped(<exnihilo:doll_creepy>, [
-    [<netherlicious:foxfirepowder>, <ore:gemChipped>, <netherlicious:foxfirepowder>],
+    [<netherlicious:FoxfirePowder>, <ore:gemChipped>, <netherlicious:FoxfirePowder>],
     [<ore:gemChipped>, <exnihilo:doll>, <ore:gemChipped>],
-    [<netherlicious:foxfirepowder>, <ore:gemChipped>, <netherlicious:foxfirepowder>]
+    [<netherlicious:FoxfirePowder>, <ore:gemChipped>, <netherlicious:FoxfirePowder>]
 ]);
 recipes.remove(<exnihilo:doll_angry>);
 recipes.addShaped(<exnihilo:doll_angry>, [
