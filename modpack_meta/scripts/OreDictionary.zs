@@ -155,6 +155,48 @@ var sheetTin = <ore:sheetTin>;
 var sheetZinc = <ore:sheetZinc>;
     sheetZinc.add(<terrafirmacraft:item.Zinc Sheet>);
 
+var sheetBrass = <ore:sheetBrass>;
+    sheetBrass.add(<terrafirmacraft:item.Brass Sheet>);
+
+var sheetGold = <ore:sheetGold>;
+    sheetGold.add(<terrafirmacraft:item.Gold Sheet>);
+
+var sheetLead = <ore:sheetLead>;
+    sheetLead.add(<terrafirmacraft:item.Lead Sheet>);
+
+var sheetNickel = <ore:sheetNickel>;
+    sheetNickel.add(<terrafirmacraft:item.Nickel Sheet>);
+
+var sheetPigIron = <ore:sheetPigIron>;
+    sheetPigIron.add(<terrafirmacraft:item.Pig Iron Sheet>);
+
+var sheetPlatinum = <ore:sheetPlatinum>;
+    sheetPlatinum.add(<terrafirmacraft:item.Platinum Sheet>);
+
+var sheetSilver = <ore:sheetSilver>;
+    sheetSilver.add(<terrafirmacraft:item.Silver Sheet>);
+
+var sheetSterlingSilver = <ore:sheetSterlingSilver>;
+    sheetSterlingSilver.add(<terrafirmacraft:item.Sterling Silver Sheet>);
+
+var sheetThaumium = <ore:sheetThaumium>;
+    sheetThaumium.add(<terrathaumcraft:item.thaumiumsheet>);
+
+var sheetPewter = <ore:sheetPewter>;
+    sheetPewter.add(<tfcpewter:item.pewterSheet>);
+
+var sheetAluminium = <ore:sheetAluminium>;
+    sheetAluminium.add(<tfctech:item.Aluminium Sheet>);
+
+var sheetElectrum = <ore:sheetElectrum>;
+    sheetElectrum.add(<tfctech:item.Electrum Sheet>);
+
+var sheetConstantan = <ore:sheetConstantan>;
+    sheetConstantan.add(<tfctech:item.Constantan Sheet>);
+
+var sheetInvar = <ore:sheetInvar>;
+    sheetInvar.add(<tfctech:item.Invar Sheet>);
+
 
 /* ================ Double Sheets ================ */
 var sheetDoubleBismuth = <ore:sheetDoubleBismuth>;
@@ -196,6 +238,48 @@ var sheetDoubleTin = <ore:sheetDoubleTin>;
 var sheetDoubleZinc = <ore:sheetDoubleZinc>;
     sheetDoubleZinc.add(<terrafirmacraft:item.Zinc Double Sheet>);
 
+var sheetDoubleBrass = <ore:sheetDoubleBrass>;
+    sheetDoubleBrass.add(<terrafirmacraft:item.Brass Double Sheet>);
+
+var sheetDoubleGold = <ore:sheetDoubleGold>;
+    sheetDoubleGold.add(<terrafirmacraft:item.Gold Double Sheet>);
+
+var sheetDoubleLead = <ore:sheetDoubleLead>;
+    sheetDoubleLead.add(<terrafirmacraft:item.Lead Double Sheet>);
+
+var sheetDoubleNickel = <ore:sheetDoubleNickel>;
+    sheetDoubleNickel.add(<terrafirmacraft:item.Nickel Double Sheet>);
+
+var sheetDoublePigIron = <ore:sheetDoublePigIron>;
+    sheetDoublePigIron.add(<terrafirmacraft:item.Pig Iron Double Sheet>);
+
+var sheetDoublePlatinum = <ore:sheetDoublePlatinum>;
+    sheetDoublePlatinum.add(<terrafirmacraft:item.Platinum Double Sheet>);
+
+var sheetDoubleSilver = <ore:sheetDoubleSilver>;
+    sheetDoubleSilver.add(<terrafirmacraft:item.Silver Sheet>);
+
+var sheetDoubleSterlingSilver = <ore:sheetDoubleSterlingSilver>;
+    sheetDoubleSterlingSilver.add(<terrafirmacraft:item.Sterling Silver Double Sheet>);
+
+var sheetDoubleThaumium = <ore:sheetDoubleThaumium>;
+    sheetDoubleThaumium.add(<terrathaumcraft:item.thaumiumdoublesheet>);
+
+var sheetDoublePewter = <ore:sheetDoublePewter>;
+    sheetDoublePewter.add(<tfcpewter:item.pewterSheet>);
+
+var sheetDoubleAluminium = <ore:sheetDoubleAluminium>;
+    sheetDoubleAluminium.add(<tfctech:item.Aluminium Double Sheet>);
+
+var sheetDoubleElectrum = <ore:sheetDoubleElectrum>;
+    sheetDoubleElectrum.add(<tfctech:item.Electrum Double Sheet>);
+
+var sheetDoubleConstantan = <ore:sheetDoubleConstantan>;
+    sheetDoubleConstantan.add(<tfctech:item.Constantan Double Sheet>);
+
+var sheetDoubleInvar = <ore:sheetDoubleInvar>;
+    sheetDoubleInvar.add(<tfctech:item.Invar Double Sheet>);
+
 
 /* ================ Plates ================ */
 var plateBismuth = <ore:plateBismuth>;
@@ -215,9 +299,11 @@ var plateBlueSteel = <ore:plateBlueSteel>;
 
 var plateBronze = <ore:plateBronze>;
     plateBronze.remove(<terrafirmacraft:item.Bronze Sheet>);
+    plateBronze.remove(<IC2:itemPlates:2>);
 
 var plateCopper = <ore:plateCopper>;
     plateCopper.remove(<terrafirmacraft:item.Copper Sheet>);
+    plateCopper.remove(<IC2:itemPlates>);
 
 var plateWroughtIron = <ore:plateWroughtIron>;
     plateWroughtIron.remove(<terrafirmacraft:item.Wrought Iron Sheet>);
@@ -230,15 +316,69 @@ var plateRoseGold = <ore:plateRoseGold>;
 
 var plateSteel = <ore:plateSteel>;
     plateSteel.remove(<terrafirmacraft:item.Steel Sheet>);
+    plateSteel.remove(<IC2:itemPlates:5>);
+    plateSteel.remove(<Railcraft:part.plate:1>);
 
 var plateTin = <ore:plateTin>;
     plateTin.remove(<terrafirmacraft:item.Tin Sheet>);
+    plateTin.remove(<IC2:itemPlates:1>);
 
 var plateZinc = <ore:plateZinc>;
     plateZinc.remove(<terrafirmacraft:item.Zinc Sheet>);
 
+var plateBrass = <ore:plateBrass>;
+    plateBrass.remove(<terrafirmacraft:item.Brass Sheet>);
 
-/* ================ Double plateDoubles ================ */
+var plateGold = <ore:plateGold>;
+    plateGold.remove(<terrafirmacraft:item.Gold Sheet>);
+    plateGold.remove(<IC2:itemPlates:3>);
+
+var plateLead = <ore:plateLead>;
+    plateLead.remove(<terrafirmacraft:item.Lead Sheet>);
+    plateLead.remove(<IC2:itemPlates:6>);
+
+var plateNickel = <ore:plateNickel>;
+    plateNickel.remove(<terrafirmacraft:item.Nickel Sheet>);
+
+var platePigIron = <ore:platePigIron>;
+    platePigIron.remove(<terrafirmacraft:item.Pig Iron Sheet>);
+
+var platePlatinum = <ore:platePlatinum>;
+    platePlatinum.remove(<terrafirmacraft:item.Platinum Sheet>);
+
+var plateSilver = <ore:plateSilver>;
+    plateSilver.remove(<terrafirmacraft:item.Silver Sheet>);
+
+var plateSterlingSilver = <ore:plateSterlingSilver>;
+    plateSterlingSilver.remove(<terrafirmacraft:item.Sterling Silver Sheet>);
+
+var plateThaumium = <ore:plateThaumium>;
+    plateThaumium.remove(<terrathaumcraft:item.thaumiumsheet>);
+
+var platePewter = <ore:platePewter>;
+    platePewter.remove(<tfcpewter:item.pewterSheet>);
+
+var plateAluminium = <ore:plateAluminium>;
+    plateAluminium.remove(<tfctech:item.Aluminium Sheet>);
+
+var plateElectrum = <ore:plateElectrum>;
+    plateElectrum.remove(<tfctech:item.Electrum Sheet>);
+
+var plateConstantan = <ore:plateConstantan>;
+    plateConstantan.remove(<tfctech:item.Constantan Sheet>);
+
+var plateInvar = <ore:plateInvar>;
+    plateInvar.remove(<tfctech:item.Invar Sheet>);
+
+
+var plateIron = <ore:plateIron>;
+    plateIron.remove(<tfctech:item.Wrought Iron Plate>);
+
+var plateSteamcraftIron = <ore:plateSteamcraftIron>;
+    plateSteamcraftIron.remove(<tfctech:item.Wrought Iron Plate>);
+
+
+/* ================ Double Plates ================ */
 var plateDoubleBismuth = <ore:plateDoubleBismuth>;
     plateDoubleBismuth.remove(<terrafirmacraft:item.Bismuth Double Sheet>);
 
@@ -278,6 +418,54 @@ var plateDoubleTin = <ore:plateDoubleTin>;
 var plateDoubleZinc = <ore:plateDoubleZinc>;
     plateDoubleZinc.remove(<terrafirmacraft:item.Zinc Double Sheet>);
 
+var plateDoubleBrass = <ore:plateDoubleBrass>;
+    plateDoubleBrass.remove(<terrafirmacraft:item.Brass Double Sheet>);
+
+var plateDoubleGold = <ore:plateDoubleGold>;
+    plateDoubleGold.remove(<terrafirmacraft:item.Gold Double Sheet>);
+
+var plateDoubleLead = <ore:plateDoubleLead>;
+    plateDoubleLead.remove(<terrafirmacraft:item.Lead Double Sheet>);
+
+var plateDoubleNickel = <ore:plateDoubleNickel>;
+    plateDoubleNickel.remove(<terrafirmacraft:item.Nickel Double Sheet>);
+
+var plateDoublePigIron = <ore:plateDoublePigIron>;
+    plateDoublePigIron.remove(<terrafirmacraft:item.Pig Iron Double Sheet>);
+
+var plateDoublePlatinum = <ore:plateDoublePlatinum>;
+    plateDoublePlatinum.remove(<terrafirmacraft:item.Platinum Double Sheet>);
+
+var plateDoubleSilver = <ore:plateDoubleSilver>;
+    plateDoubleSilver.remove(<terrafirmacraft:item.Silver Sheet>);
+
+var plateDoubleSterlingSilver = <ore:plateDoubleSterlingSilver>;
+    plateDoubleSterlingSilver.remove(<terrafirmacraft:item.Sterling Silver Double Sheet>);
+
+var plateDoubleThaumium = <ore:plateDoubleThaumium>;
+    plateDoubleThaumium.remove(<terrathaumcraft:item.thaumiumdoublesheet>);
+
+var plateDoublePewter = <ore:plateDoublePewter>;
+    plateDoublePewter.remove(<tfcpewter:item.pewterSheet>);
+
+var plateDoubleAluminium = <ore:plateDoubleAluminium>;
+    plateDoubleAluminium.remove(<tfctech:item.Aluminium Double Sheet>);
+
+var plateDoubleElectrum = <ore:plateDoubleElectrum>;
+    plateDoubleElectrum.remove(<tfctech:item.Electrum Double Sheet>);
+
+var plateDoubleConstantan = <ore:plateDoubleConstantan>;
+    plateDoubleConstantan.remove(<tfctech:item.Constantan Double Sheet>);
+
+var plateDoubleInvar = <ore:plateDoubleInvar>;
+    plateDoubleInvar.remove(<tfctech:item.Invar Double Sheet>);
+
+
+var plateDoubleIron = <ore:plateDoubleIron>;
+    plateDoubleIron.remove(<tfctech:item.Dense Wrought Iron Plate>);
+
+var plateDenseIron = <ore:plateDenseIron>;
+    plateDenseIron.remove(<tfctech:item.Dense Wrought Iron Plate>);
 
 /* ================ Nuggets ================ */
 var nuggetGold = <ore:nuggetGold>;

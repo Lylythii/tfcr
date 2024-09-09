@@ -178,6 +178,14 @@
 			}
 		},
 		{
+			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/config/angelica-modules.cfg",
+			"folder": "config",
+			"installationPolicy":
+			{
+				"downloadAlways": true
+			}
+		},
+		{
 			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/config/betterstorage.cfg",
 			"folder": "config",
 			"installationPolicy":

@@ -20,3 +20,16 @@ recipes.addShaped(<tfctech:item.Wire Draw Bench>, [
 furnace.remove(<tfctech:item.Sleeve Mold:1>);
 furnace.remove(<tfctech:item.Gear Piece Mold:1>);
 furnace.remove(<tfctech:item.Latex Bowl:1>);
+
+/* Tweak Induction Crucible to use IC2 circuits instead of copper */
+recipes.remove(<tfctech:InductionSmelter>);
+recipes.addShaped(<tfctech:InductionSmelter>, [
+    [<tfctech:item.Inductor>, <terrafirmacraft:Crucible>, <tfctech:item.Inductor>],
+    [<tfctech:item.Inductor>, <tfctech:item.Circuit:1>, <tfctech:item.Inductor>],
+    [<ore:plateSteel>, <ore:circuitBasic>, <ore:platePlatinum>]
+]);
+recipes.addShaped(<tfctech:InductionSmelter>, [
+    [<tfctech:item.Inductor>, <terrafirmacraft:Crucible>, <tfctech:item.Inductor>],
+    [<tfctech:item.Inductor>, <tfctech:item.Circuit:1>, <tfctech:item.Inductor>],
+    [<ore:platePlatinum>, <ore:circuitBasic>, <ore:plateSteel>]
+]);

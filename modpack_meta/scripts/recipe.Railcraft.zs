@@ -25,3 +25,8 @@ recipes.addShaped(<Railcraft:anvil>, [
     [<terrafirmacraft:item.BurlapCloth>, <ore:dyeCyan>, <terrafirmacraft:item.BurlapCloth>],
     [<terrafirmacraft:item.BurlapCloth>, <ore:dyeLightBlue>, <terrafirmacraft:item.BurlapCloth>]
 ]);
+
+/* Wire Support Frame recipes using Nickel */
+recipes.remove(<Railcraft:frame>);
+recipes.addShaped(<Railcraft:frame> * 3, [[<ore:plateDenseNickel>, <ore:plateDenseNickel>, <ore:plateDenseNickel>], [<Railcraft:part.rebar>, <Railcraft:part.rebar>, <Railcraft:part.rebar>], [<Railcraft:part.rebar>, <Railcraft:part.rebar>, <Railcraft:part.rebar>]]);
+recipes.addShaped(<Railcraft:frame> * 3, [[<ore:plateNickel>, <ore:plateNickel>, <ore:plateNickel>], [<Railcraft:part.rebar>, <Railcraft:part.rebar>, <Railcraft:part.rebar>]]);

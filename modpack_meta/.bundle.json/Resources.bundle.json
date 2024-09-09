@@ -22,22 +22,26 @@
 		{
 			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/resources/terrafirmacraft/textures/items/tools/bucket/wood/wooden_bucket.png",
 			"fileName": "Wooden Bucket Empty.png",
-			"folder": "modpack_meta/branding"
+			"folder": "resources/terrafirmacraft/textures/items/tools"
 		},
 		{
 			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/resources/terrafirmacraft/textures/items/tools/bucket/wood/wooden_bucket_fresh_water.png",
 			"fileName": "Wooden Bucket Water.png",
-			"folder": "modpack_meta/branding"
+			"folder": "resources/terrafirmacraft/textures/items/tools"
 		},
 		{
 			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/resources/terrafirmacraft/textures/items/tools/bucket/wood/wooden_bucket_salt_water.png",
 			"fileName": "Wooden Bucket Salt Water.png",
-			"folder": "modpack_meta/branding"
+			"folder": "resources/terrafirmacraft/textures/items/tools"
 		},
 		{
 			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/resources/terrafirmacraft/textures/items/tools/bucket/wood/wooden_bucket_milk.png",
 			"fileName": "Wooden Bucket Milk.png",
-			"folder": "modpack_meta/branding"
+			"folder": "resources/terrafirmacraft/textures/items/tools"
+		},
+		{
+			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/resources/railcraft/textures/blocks/frame.png",
+			"folder": "railcraft/textures/blocks"
 		}
 	]
 }
