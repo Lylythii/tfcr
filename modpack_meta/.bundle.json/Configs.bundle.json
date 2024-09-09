@@ -98,7 +98,7 @@
 			}
 		},
 		{
-			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/config/ic2.ini",
+			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/config/IC2.ini",
 			"folder": "config",
 			"installationPolicy":
 			{
