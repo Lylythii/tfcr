@@ -3,7 +3,7 @@
     "materialName": "Copper",
     "locName": "drill.copper",
     "harvestLevel": 1,
-    "standard": true,
+    "standard": false,
     "oreName": "ingotDoubleCopper",
     "color": "#CD9081"
   },
@@ -11,7 +11,7 @@
     "materialName": "Brass",
     "locName": "drill.brass",
     "harvestLevel": 2,
-    "standard": true,
+    "standard": false,
     "oreName": "ingotDoubleBrass",
     "color": "#E8CD8B"
   },
@@ -19,7 +19,7 @@
     "materialName": "Bronze",
     "locName": "drill.bronze",
     "harvestLevel": 2,
-    "standard": true,
+    "standard": false,
     "oreName": "ingotDoubleBronze",
     "color": "#CAA281"
   },
@@ -27,7 +27,7 @@
     "materialName": "Bismuth Bronze",
     "locName": "drill.bismuth_bronze",
     "harvestLevel": 2,
-    "standard": true,
+    "standard": false,
     "oreName": "ingotDoubleBismuthBronze",
     "color": "#FABD3F"
   },
@@ -35,7 +35,7 @@
     "materialName": "Black Bronze",
     "locName": "drill.black_bronze",
     "harvestLevel": 2,
-    "standard": true,
+    "standard": false,
     "oreName": "ingotDoubleBlackBronze",
     "color": "#825E82"
   },
@@ -43,7 +43,7 @@
     "materialName": "Iron",
     "locName": "drill.wrought_iron",
     "harvestLevel": 2,
-    "standard": true,
+    "standard": false,
     "oreName": "ingotDoubleWroughtIron",
     "color": "#D7D7D7"
   },
@@ -51,7 +51,7 @@
     "materialName": "Iron",
     "locName": "drill.steel",
     "harvestLevel": 2,
-    "standard": true,
+    "standard": false,
     "oreName": "ingotDoubleSteel",
     "color": "#829296"
   },
@@ -59,7 +59,7 @@
     "materialName": "Iron",
     "locName": "drill.black_steel",
     "harvestLevel": 2,
-    "standard": true,
+    "standard": false,
     "oreName": "ingotDoubleBlackSteel",
     "color": "#505050"
   },
@@ -67,7 +67,7 @@
     "materialName": "Iron",
     "locName": "drill.red_steel",
     "harvestLevel": 2,
-    "standard": true,
+    "standard": false,
     "oreName": "ingotDoubleRedSteel",
     "color": "#EE989C"
   },
@@ -75,7 +75,7 @@
     "materialName": "Iron",
     "locName": "drill.blue_steel",
     "harvestLevel": 2,
-    "standard": true,
+    "standard": false,
     "oreName": "ingotDoubleBlueSteel",
     "color": "#A0AEC8"
   },

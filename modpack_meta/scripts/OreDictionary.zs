@@ -102,11 +102,181 @@ var ingotIron = <ore:ingotIron>;
     ingotIron.remove(<terrafirmacraft:item.Wrought Iron Ingot>);
 
 var ingotCopper = <ore:ingotCopper>;
-    //ingotCopper.remove(<Railcraft:ingot:1>);
+    ingotCopper.remove(<Railcraft:ingot:1>);
     ingotCopper.remove(<Steamcraft:steamcraftIngot>);
     ingotCopper.remove(<TConstruct:materials:9>);
     ingotCopper.remove(<etfuturum:copper_ingot>);
     ingotCopper.remove(<exnihilo:exnihilo.copper_ingot>);
+
+var ingotBrass = <ore:ingotBrass>;
+    ingotBrass.remove(<Steamcraft:steamcraftIngot:2>);
+
+var ingotZinc = <ore:ingotZinc>;
+    ingotZinc.remove(<Steamcraft:steamcraftIngot:1>);
+
+
+/* ================ Sheets ================ */
+var sheetBismuth = <ore:sheetBismuth>;
+    sheetBismuth.add(<terrafirmacraft:item.Bismuth Sheet>);
+
+var sheetBismuthBronze = <ore:sheetBismuthBronze>;
+    sheetBismuthBronze.add(<terrafirmacraft:item.Bismuth Bronze Sheet>);
+
+var sheetBlackBronze = <ore:sheetBlackBronze>;
+    sheetBlackBronze.add(<terrafirmacraft:item.Black Bronze Sheet>);
+
+var sheetBlackSteel = <ore:sheetBlackSteel>;
+    sheetBlackSteel.add(<terrafirmacraft:item.Black Steel Sheet>);
+
+var sheetBlueSteel = <ore:sheetBlueSteel>;
+    sheetBlueSteel.add(<terrafirmacraft:item.Blue Steel Sheet>);
+
+var sheetBronze = <ore:sheetBronze>;
+    sheetBronze.add(<terrafirmacraft:item.Bronze Sheet>);
+
+var sheetCopper = <ore:sheetCopper>;
+    sheetCopper.add(<terrafirmacraft:item.Copper Sheet>);
+
+var sheetWroughtIron = <ore:sheetWroughtIron>;
+    sheetWroughtIron.add(<terrafirmacraft:item.Wrought Iron Sheet>);
+
+var sheetRedSteel = <ore:sheetRedSteel>;
+    sheetRedSteel.add(<terrafirmacraft:item.Red Steel Sheet>);
+
+var sheetRoseGold = <ore:sheetRoseGold>;
+    sheetRoseGold.add(<terrafirmacraft:item.Rose Gold Sheet>);
+
+var sheetSteel = <ore:sheetSteel>;
+    sheetSteel.add(<terrafirmacraft:item.Steel Sheet>);
+
+var sheetTin = <ore:sheetTin>;
+    sheetTin.add(<terrafirmacraft:item.Tin Sheet>);
+
+var sheetZinc = <ore:sheetZinc>;
+    sheetZinc.add(<terrafirmacraft:item.Zinc Sheet>);
+
+
+/* ================ Double Sheets ================ */
+var sheetDoubleBismuth = <ore:sheetDoubleBismuth>;
+    sheetDoubleBismuth.add(<terrafirmacraft:item.Bismuth Double Sheet>);
+
+var sheetDoubleBismuthBronze = <ore:sheetDoubleBismuthBronze>;
+    sheetDoubleBismuthBronze.add(<terrafirmacraft:item.Bismuth Bronze Double Sheet>);
+
+var sheetDoubleBlackBronze = <ore:sheetDoubleBlackBronze>;
+    sheetDoubleBlackBronze.add(<terrafirmacraft:item.Black Bronze Double Sheet>);
+
+var sheetDoubleBlackSteel = <ore:sheetDoubleBlackSteel>;
+    sheetDoubleBlackSteel.add(<terrafirmacraft:item.Black Steel Double Sheet>);
+
+var sheetDoubleBlueSteel = <ore:sheetDoubleBlueSteel>;
+    sheetDoubleBlueSteel.add(<terrafirmacraft:item.Blue Steel Double Sheet>);
+
+var sheetDoubleBronze = <ore:sheetDoubleBronze>;
+    sheetDoubleBronze.add(<terrafirmacraft:item.Bronze Double Sheet>);
+
+var sheetDoubleCopper = <ore:sheetDoubleCopper>;
+    sheetDoubleCopper.add(<terrafirmacraft:item.Copper Double Sheet>);
+
+var sheetDoubleWroughtIron = <ore:sheetDoubleWroughtIron>;
+    sheetDoubleWroughtIron.add(<terrafirmacraft:item.Wrought Iron Double Sheet>);
+
+var sheetDoubleRedSteel = <ore:sheetDoubleRedSteel>;
+    sheetDoubleRedSteel.add(<terrafirmacraft:item.Red Steel Double Sheet>);
+
+var sheetDoubleRoseGold = <ore:sheetDoubleRoseGold>;
+    sheetDoubleRoseGold.add(<terrafirmacraft:item.Rose Gold Double Sheet>);
+
+var sheetDoubleSteel = <ore:sheetDoubleSteel>;
+    sheetDoubleSteel.add(<terrafirmacraft:item.Steel Double Sheet>);
+
+var sheetDoubleTin = <ore:sheetDoubleTin>;
+    sheetDoubleTin.add(<terrafirmacraft:item.Tin Double Sheet>);
+
+var sheetDoubleZinc = <ore:sheetDoubleZinc>;
+    sheetDoubleZinc.add(<terrafirmacraft:item.Zinc Double Sheet>);
+
+
+/* ================ Plates ================ */
+var plateBismuth = <ore:plateBismuth>;
+    plateBismuth.remove(<terrafirmacraft:item.Bismuth Sheet>);
+
+var plateBismuthBronze = <ore:plateBismuthBronze>;
+    plateBismuthBronze.remove(<terrafirmacraft:item.Bismuth Bronze Sheet>);
+
+var plateBlackBronze = <ore:plateBlackBronze>;
+    plateBlackBronze.remove(<terrafirmacraft:item.Black Bronze Sheet>);
+
+var plateBlackSteel = <ore:plateBlackSteel>;
+    plateBlackSteel.remove(<terrafirmacraft:item.Black Steel Sheet>);
+
+var plateBlueSteel = <ore:plateBlueSteel>;
+    plateBlueSteel.remove(<terrafirmacraft:item.Blue Steel Sheet>);
+
+var plateBronze = <ore:plateBronze>;
+    plateBronze.remove(<terrafirmacraft:item.Bronze Sheet>);
+
+var plateCopper = <ore:plateCopper>;
+    plateCopper.remove(<terrafirmacraft:item.Copper Sheet>);
+
+var plateWroughtIron = <ore:plateWroughtIron>;
+    plateWroughtIron.remove(<terrafirmacraft:item.Wrought Iron Sheet>);
+
+var plateRedSteel = <ore:plateRedSteel>;
+    plateRedSteel.remove(<terrafirmacraft:item.Red Steel Sheet>);
+
+var plateRoseGold = <ore:plateRoseGold>;
+    plateRoseGold.remove(<terrafirmacraft:item.Rose Gold Sheet>);
+
+var plateSteel = <ore:plateSteel>;
+    plateSteel.remove(<terrafirmacraft:item.Steel Sheet>);
+
+var plateTin = <ore:plateTin>;
+    plateTin.remove(<terrafirmacraft:item.Tin Sheet>);
+
+var plateZinc = <ore:plateZinc>;
+    plateZinc.remove(<terrafirmacraft:item.Zinc Sheet>);
+
+
+/* ================ Double plateDoubles ================ */
+var plateDoubleBismuth = <ore:plateDoubleBismuth>;
+    plateDoubleBismuth.remove(<terrafirmacraft:item.Bismuth Double Sheet>);
+
+var plateDoubleBismuthBronze = <ore:plateDoubleBismuthBronze>;
+    plateDoubleBismuthBronze.remove(<terrafirmacraft:item.Bismuth Bronze Double Sheet>);
+
+var plateDoubleBlackBronze = <ore:plateDoubleBlackBronze>;
+    plateDoubleBlackBronze.remove(<terrafirmacraft:item.Black Bronze Double Sheet>);
+
+var plateDoubleBlackSteel = <ore:plateDoubleBlackSteel>;
+    plateDoubleBlackSteel.remove(<terrafirmacraft:item.Black Steel Double Sheet>);
+
+var plateDoubleBlueSteel = <ore:plateDoubleBlueSteel>;
+    plateDoubleBlueSteel.remove(<terrafirmacraft:item.Blue Steel Double Sheet>);
+
+var plateDoubleBronze = <ore:plateDoubleBronze>;
+    plateDoubleBronze.remove(<terrafirmacraft:item.Bronze Double Sheet>);
+
+var plateDoubleCopper = <ore:plateDoubleCopper>;
+    plateDoubleCopper.remove(<terrafirmacraft:item.Copper Double Sheet>);
+
+var plateDoubleWroughtIron = <ore:plateDoubleWroughtIron>;
+    plateDoubleWroughtIron.remove(<terrafirmacraft:item.Wrought Iron Double Sheet>);
+
+var plateDoubleRedSteel = <ore:plateDoubleRedSteel>;
+    plateDoubleRedSteel.remove(<terrafirmacraft:item.Red Steel Double Sheet>);
+
+var plateDoubleRoseGold = <ore:plateDoubleRoseGold>;
+    plateDoubleRoseGold.remove(<terrafirmacraft:item.Rose Gold Double Sheet>);
+
+var plateDoubleSteel = <ore:plateDoubleSteel>;
+    plateDoubleSteel.remove(<terrafirmacraft:item.Steel Double Sheet>);
+
+var plateDoubleTin = <ore:plateDoubleTin>;
+    plateDoubleTin.remove(<terrafirmacraft:item.Tin Double Sheet>);
+
+var plateDoubleZinc = <ore:plateDoubleZinc>;
+    plateDoubleZinc.remove(<terrafirmacraft:item.Zinc Double Sheet>);
 
 
 /* ================ Nuggets ================ */
@@ -222,6 +392,7 @@ var dyeBlue = <ore:dyeBlue>;
 
 var dyeBrown = <ore:dyeBrown>;
     dyeBrown.remove(<minecraft:dye:3>);
+    dyeBrown.remove(<terrafirmacraft:item.dyePowder:3>);
     dyeBrown.remove(<tfcm:item.BrownDye>);
 
 var dyeGreen = <ore:dyeGreen>;
@@ -232,3 +403,4 @@ var dyeRed = <ore:dyeRed>;
 var dyeBlack = <ore:dyeBlack>;
     dyeBlack.remove(<minecraft:dye>);
     dyeBlack.remove(<terrafirmacraft:item.dyePowder>);
+    dyeBlack.remove(<netherlicious:dye>);

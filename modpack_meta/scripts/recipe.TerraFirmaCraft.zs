@@ -33,3 +33,6 @@ furnace.remove(<terrafirmacraft:item.Mold:1>);
 recipes.remove(<terrafirmacraft:item.dyePowder>);
 recipes.remove(<terrafirmacraft:item.dyePowder:1>);
 recipes.remove(<terrafirmacraft:item.dyePowder:11>);
+
+// Remove weird cocoa bean "dye" recipe
+recipes.remove(<terrafirmacraft:item.dyePowder:3>);

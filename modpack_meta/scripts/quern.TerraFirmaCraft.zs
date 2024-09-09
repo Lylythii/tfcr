@@ -7,6 +7,42 @@ mods.Terrafirmacraft.Quern.addRecipe(<terrafirmacraft:item.Powder:6> * 2, <minec
 mods.Terrafirmacraft.Quern.addRecipe(<terrafirmacraft:item.dyePowder:11> * 2, <terrafirmacraft:item.Powder:7>);     //Yellow
 mods.Terrafirmacraft.Quern.addRecipe(<terrafirmacraft:item.dyePowder:1> * 2, <terrafirmacraft:item.Powder:5>);      //Red
 
+/* ================ Dyes ================ */
+// Black
+// Red
+mods.Terrafirmacraft.Quern.addRecipe(<terrafirmacraft:item.dyePowder:1> * 2, <terrafirmacraft:Flowers:3>);
+mods.Terrafirmacraft.Quern.addRecipe(<terrafirmacraft:item.dyePowder:1> * 2, <terrafirmacraft:Flowers2>);
+mods.Terrafirmacraft.Quern.addRecipe(<terrafirmacraft:item.dyePowder:1> * 2, <terrafirmacraft:Flowers:4>);
+// Green
+// Brown
+mods.Terrafirmacraft.Quern.addRecipe(<etfuturum:dye:2> * 2, <terrafirmacraft:item.dyePowder:3>);
+// Blue
+// Purple
+// Cyan
+mods.Terrafirmacraft.Quern.addRecipe(<terrafirmacraft:item.dyePowder:14> * 2, <terrafirmacraft:Flowers2:1>);
+// Light Gray
+// Gray
+// Pink
+mods.Terrafirmacraft.Quern.addRecipe(<terrafirmacraft:item.dyePowder:9> * 2, <terrafirmacraft:Flowers2:7>);
+// Lime
+// Yellow
+mods.Terrafirmacraft.Quern.addRecipe(<terrafirmacraft:item.dyePowder:11> * 2, <terrafirmacraft:Flora>);
+mods.Terrafirmacraft.Quern.addRecipe(<terrafirmacraft:item.dyePowder:11> * 2, <terrafirmacraft:Flowers>);
+mods.Terrafirmacraft.Quern.addRecipe(<terrafirmacraft:item.dyePowder:11> * 2, <terrafirmacraft:Flowers:5>);
+// Light Blue
+// Magenta
+mods.Terrafirmacraft.Quern.addRecipe(<terrafirmacraft:item.dyePowder:13> * 2, <terrafirmacraft:Flowers2:2>);
+// Orange
+mods.Terrafirmacraft.Quern.addRecipe(<terrafirmacraft:item.dyePowder:14> * 2, <terrafirmacraft:Flowers:1>);
+mods.Terrafirmacraft.Quern.addRecipe(<terrafirmacraft:item.dyePowder:14> * 2, <terrafirmacraft:Flowers:4>);
+mods.Terrafirmacraft.Quern.addRecipe(<terrafirmacraft:item.dyePowder:14> * 2, <terrafirmacraft:Flowers:5>);
+// White
+mods.Terrafirmacraft.Quern.addRecipe(<etfuturum:dye> * 2, <terrafirmacraft:Flowers:2>);
+mods.Terrafirmacraft.Quern.addRecipe(<etfuturum:dye> * 2, <terrafirmacraft:Flowers2:3>);
+mods.Terrafirmacraft.Quern.addRecipe(<etfuturum:dye> * 2, <terrafirmacraft:Flowers2:6>);
+mods.Terrafirmacraft.Quern.addRecipe(<etfuturum:dye> * 2, <terrafirmacraft:Flowers2:8>);
+
+
 
 
 /* Cobble -> Gravel */
