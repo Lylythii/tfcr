@@ -420,6 +420,55 @@
 			"fileId": 3335234
 		},
 		{
+            "comment": "Fullscreen Windowed | https://www.curseforge.com/minecraft/mc-mods/fullscreen-windowed-borderless-for-minecraft/files/2317743",
+			"folder": "mods/1.7.10",
+			"fileName": "MOD ┆ Fullscreen Windowed.jar",
+			"addonId": 227441,
+			"fileId": 2317743
+		},
+		{
+            "comment": "Hats | https://www.curseforge.com/minecraft/mc-mods/hats/files/2232170",
+			"folder": "mods/1.7.10",
+			"fileName": "MOD ┆ Fullscreen Windowed.jar",
+			"addonId": 229073,
+			"fileId": 2232170
+		},
+		{
+            "comment": "Hat Stand | https://www.curseforge.com/minecraft/mc-mods/hat-stand/files/2232181",
+			"folder": "mods/1.7.10",
+			"fileName": "MOD ┆ Fullscreen Windowed.jar",
+			"addonId": 229076,
+			"fileId": 2232181
+		},
+		{
+            "comment": "WAILA | https://www.curseforge.com/minecraft/mc-mods/waila/files/2230518",
+			"folder": "mods/1.7.10",
+			"fileName": "MOD ┆ WAILA.jar",
+			"addonId": 73488,
+			"fileId": 2230518
+		},
+		{
+            "comment": "WAILA Harvestability | https://www.curseforge.com/minecraft/mc-mods/waila-harvestability/files/2270923",
+			"folder": "mods/1.7.10",
+			"fileName": "MOD ┆ WAILA Harvestability.jar",
+			"addonId": 79287,
+			"fileId": 2270923
+		},
+		{
+            "comment": "Mob Statues | https://www.curseforge.com/minecraft/mc-mods/mob-statues/files/2234357",
+			"folder": "mods/1.7.10",
+			"fileName": "MOD ┆ Mob Statues.jar",
+			"addonId": 227575,
+			"fileId": 2234357
+		},
+		{
+            "comment": "Non Evaporation | https://www.curseforge.com/minecraft/mc-mods/nonevaporation/files/2760462",
+			"folder": "mods/1.7.10",
+			"fileName": "MOD ┆ Non Evaporation.jar",
+			"addonId": 335148,
+			"fileId": 2760462
+		},
+		{
             "comment": "Angelica | https://www.curseforge.com/minecraft/mc-mods/angelica/files/5597056",
 			"folder": "mods/1.7.10",
 			"addonId": 988067,
