@@ -100,6 +100,14 @@ var obsidianCrying = <ore:obsidianCrying>;
 /* ================ Ingots ================ */
 var ingotIron = <ore:ingotIron>;
     ingotIron.remove(<terrafirmacraft:item.Wrought Iron Ingot>);
+    
+var ingotPigIron = <ore:ingotPigIron>;
+    ingotPigIron.remove(<TConstruct:materials:34>);
+
+var ingotSteel = <ore:ingotSteel>;
+    ingotSteel.remove(<TConstruct:materials:16>);
+    ingotSteel.remove(<Railcraft:ingot>);
+    ingotSteel.remove(<IC2:itemIngot:3>);
 
 var ingotCopper = <ore:ingotCopper>;
     ingotCopper.remove(<Railcraft:ingot:1>);

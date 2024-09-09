@@ -3,16 +3,25 @@
         {
             "name":"Crystal Flux",
             "textureName":"crystal_flux.png",
+            "stackSize": "64",
             "creativeTab":"TFCN Miscellaneous"
         },
         {
             "name":"Carpenters Shaft",
             "textureName":"carpenters_shaft.png",
+            "stackSize": "64",
             "creativeTab":"TFCN Miscellaneous"
         },
         {
             "name":"Carpenters Lumber",
             "textureName":"carpenters_lumber.png",
+            "stackSize": "64",
+            "creativeTab":"TFCN Miscellaneous"
+        },
+        {
+            "name":"Mixed Metal Alloy Blend",
+            "textureName":"mixed_metal_alloy_blend.png",
+            "stackSize": "64",
             "creativeTab":"TFCN Miscellaneous"
         }
     ]

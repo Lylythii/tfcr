@@ -82,6 +82,14 @@
 			}
 		},
 		{
+			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/scripts/nei.IC2.zs",
+			"folder": "scripts",
+			"installationPolicy":
+			{
+				"downloadAlways": true
+			}
+		},
+		{
 			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/scripts/nei.Minecraft.zs",
 			"folder": "scripts",
 			"installationPolicy":
@@ -171,6 +179,14 @@
 		},
 		{
 			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/scripts/recipe.CarpentersBlocks.zs",
+			"folder": "scripts",
+			"installationPolicy":
+			{
+				"downloadAlways": true
+			}
+		},
+		{
+			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/scripts/recipe.CustomItems.zs",
 			"folder": "scripts",
 			"installationPolicy":
 			{

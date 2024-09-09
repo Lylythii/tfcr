@@ -1,6 +1,136 @@
 {  
 	"oreGen":[
 		{  
+			"blockToSpawn": "etfuturum:moss_carpet",
+			"blockToReplace": "terrafirmacraft:TallGrass:0",
+			"dimensionId": 0,
+			"minVeinSize": 80,
+			"maxVeinSize": 100,
+			"chancesToSpawn": 2000,
+			"minY": 143,
+			"maxY": 255
+		},
+		{  
+			"blockToSpawn": "etfuturum:bamboo:0",
+			"blockToReplace": "terrafirmacraft:TallGrass:0",
+			"dimensionId": 0,
+			"minVeinSize": 80,
+			"maxVeinSize": 100,
+			"chancesToSpawn": 2000,
+			"minY": 143,
+			"maxY": 255
+		},
+		{  
+			"blockToSpawn": "etfuturum:bamboo:1",
+			"blockToReplace": "terrafirmacraft:TallGrass:0",
+			"dimensionId": 0,
+			"minVeinSize": 80,
+			"maxVeinSize": 100,
+			"chancesToSpawn": 2000,
+			"minY": 143,
+			"maxY": 255
+		},
+		{  
+			"blockToSpawn": "etfuturum:bamboo:2",
+			"blockToReplace": "terrafirmacraft:TallGrass:0",
+			"dimensionId": 0,
+			"minVeinSize": 80,
+			"maxVeinSize": 100,
+			"chancesToSpawn": 2000,
+			"minY": 143,
+			"maxY": 255
+		},
+		{  
+			"blockToSpawn": "etfuturum:bamboo:3",
+			"blockToReplace": "terrafirmacraft:TallGrass:0",
+			"dimensionId": 0,
+			"minVeinSize": 80,
+			"maxVeinSize": 100,
+			"chancesToSpawn": 2000,
+			"minY": 143,
+			"maxY": 255
+		},
+		{  
+			"blockToSpawn": "etfuturum:bamboo:4",
+			"blockToReplace": "terrafirmacraft:TallGrass:0",
+			"dimensionId": 0,
+			"minVeinSize": 80,
+			"maxVeinSize": 100,
+			"chancesToSpawn": 2000,
+			"minY": 143,
+			"maxY": 255
+		},
+		{  
+			"blockToSpawn": "etfuturum:bamboo_sapling",
+			"blockToReplace": "terrafirmacraft:Flora:0",
+			"dimensionId": 0,
+			"minVeinSize": 80,
+			"maxVeinSize": 100,
+			"chancesToSpawn": 6000,
+			"minY": 143,
+			"maxY": 255
+		},
+		{  
+			"blockToSpawn": "etfuturum:bamboo:5",
+			"blockToReplace": "terrafirmacraft:Flora:0",
+			"dimensionId": 0,
+			"minVeinSize": 80,
+			"maxVeinSize": 100,
+			"chancesToSpawn": 6000,
+			"minY": 143,
+			"maxY": 255
+		},
+		{  
+			"blockToSpawn": "etfuturum:sapling:1",
+			"blockToReplace": "terrafirmacraft:TallGrass:0",
+			"dimensionId": 0,
+			"minVeinSize": 80,
+			"maxVeinSize": 100,
+			"chancesToSpawn": 1000,
+			"minY": 143,
+			"maxY": 255
+		},
+		{  
+			"blockToSpawn": "etfuturum:muddy_mangrove_roots",
+			"blockToReplace": "terrafirmacraft:ClayGrass:*",
+			"dimensionId": 0,
+			"minVeinSize": 80,
+			"maxVeinSize": 100,
+			"chancesToSpawn": 2000,
+			"minY": 143,
+			"maxY": 255
+		},
+		{  
+			"blockToSpawn": "etfuturum:muddy_mangrove_roots",
+			"blockToReplace": "terrafirmacraft:ClayGrass2:*",
+			"dimensionId": 0,
+			"minVeinSize": 80,
+			"maxVeinSize": 100,
+			"chancesToSpawn": 2000,
+			"minY": 143,
+			"maxY": 255
+		},
+		{  
+			"blockToSpawn": "etfuturum:mud",
+			"blockToReplace": "terrafirmacraft:Clay:*",
+			"dimensionId": 0,
+			"minVeinSize": 80,
+			"maxVeinSize": 100,
+			"chancesToSpawn": 2000,
+			"minY": 143,
+			"maxY": 255
+		},
+		{  
+			"blockToSpawn": "etfuturum:mud",
+			"blockToReplace": "terrafirmacraft:Clay2:*",
+			"dimensionId": 0,
+			"minVeinSize": 80,
+			"maxVeinSize": 100,
+			"chancesToSpawn": 2000,
+			"minY": 143,
+			"maxY": 255
+		},
+		{  
 			"blockToSpawn": "AgriCraft:cropCotton:3",
 			"blockToReplace": "terrafirmacraft:TallGrass:0",
 			"dimensionId": 0,
@@ -87,36 +217,6 @@
 			"minVeinSize": 80,
 			"maxVeinSize": 100,
 			"chancesToSpawn": 2000,
-			"minY": 143,
-			"maxY": 255
-		},
-		{  
-			"blockToSpawn": "customitems:beehive",
-			"blockToReplace": "terrafirmacraft:TallGrass:0",
-			"dimensionId": 0,
-			"minVeinSize": 1,
-			"maxVeinSize": 10,
-			"chancesToSpawn": 70,
-			"minY": 143,
-			"maxY": 255
-		},
-		{  
-			"blockToSpawn": "customitems:beehive",
-			"blockToReplace": "terrafirmacraft:TallGrass:1",
-			"dimensionId": 0,
-			"minVeinSize": 1,
-			"maxVeinSize": 10,
-			"chancesToSpawn": 70,
-			"minY": 143,
-			"maxY": 255
-		},
-		{  
-			"blockToSpawn": "customitems:beehive",
-			"blockToReplace": "terrafirmacraft:TallGrass:2",
-			"dimensionId": 0,
-			"minVeinSize": 1,
-			"maxVeinSize": 10,
-			"chancesToSpawn": 70,
 			"minY": 143,
 			"maxY": 255
 		}

@@ -29,6 +29,11 @@ recipes.remove(<minecraft:gold_block>);
 recipes.remove(<minecraft:diamond_block>);
 recipes.remove(<minecraft:emerald_block>);
 
+recipes.remove(<minecraft:fence>);
+recipes.remove(<minecraft:fence_gate>);
+recipes.remove(<minecraft:wooden_door>);
+recipes.remove(<minecraft:iron_door>);
+
 furnace.remove(<minecraft:iron_ingot>);
 furnace.remove(<minecraft:gold_ingot>);
 furnace.remove(<minecraft:gold_nugget>);
@@ -71,3 +76,11 @@ recipes.addShapeless(<minecraft:anvil>, [<ore:itemHammer>.transformDamage(1), <o
 
 /* Remove Tinkers Construct aluminium brass clock recipe */
 recipes.removeShaped(<minecraft:clock>, [[null, <TConstruct:materials:14>, null], [<TConstruct:materials:14>, <minecraft:redstone>, <TConstruct:materials:14>], [null, <TConstruct:materials:14>, null]]);
+
+/* Tweak item frame recipe */
+recipes.remove(<minecraft:item_frame>);
+recipes.addShaped(<minecraft:item_frame>, [[<ore:woodLumberPlaned>, <ore:woodLumberPlaned>, <ore:woodLumberPlaned>], [<ore:woodLumberPlaned>, <ore:materialLeather>, <ore:woodLumberPlaned>], [<ore:woodLumberPlaned>, <ore:woodLumberPlaned>, <ore:woodLumberPlaned>]]);
+
+/* Tweak piston recipe */
+recipes.remove(<minecraft:piston>);
+recipes.addShaped(<minecraft:piston>, [[<ore:woodLumber>, <ore:woodLumber>, <ore:woodLumber>], [<ore:woodLumberPlaned>, <Steamcraft:steamcraftCrafting>, <ore:woodLumberPlaned>], [<ore:plateBrass>, <tfcm:item.PistonBase>, <ore:plateBrass>]]);
