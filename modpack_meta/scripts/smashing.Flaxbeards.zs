@@ -1,0 +1,2 @@
+
+addSmashingRecipe(in, out)

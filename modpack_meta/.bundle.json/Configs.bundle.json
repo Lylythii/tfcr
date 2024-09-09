@@ -98,6 +98,78 @@
 			}
 		},
 		{
+			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/config/railcraft/blocks.cfg",
+			"folder": "config/railcraft",
+			"installationPolicy":
+			{
+				"downloadAlways": true
+			}
+		},
+		{
+			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/config/railcraft/items.cfg",
+			"folder": "config/railcraft",
+			"installationPolicy":
+			{
+				"downloadAlways": true
+			}
+		},
+		{
+			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/config/railcraft/modules.cfg",
+			"folder": "config/railcraft",
+			"installationPolicy":
+			{
+				"downloadAlways": true
+			}
+		},
+		{
+			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/config/railcraft/railcraft.cfg",
+			"folder": "config/railcraft",
+			"installationPolicy":
+			{
+				"downloadAlways": true
+			}
+		},
+		{
+			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/config/Netherlicious/Biome_Configuration.cfg",
+			"folder": "config/Netherlicious",
+			"installationPolicy":
+			{
+				"downloadAlways": true
+			}
+		},
+		{
+			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/config/Netherlicious/Entity_Configuration.cfg",
+			"folder": "config/Netherlicious",
+			"installationPolicy":
+			{
+				"downloadAlways": true
+			}
+		},
+		{
+			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/config/Netherlicious/Main_Configuration.cfg",
+			"folder": "config/Netherlicious",
+			"installationPolicy":
+			{
+				"downloadAlways": true
+			}
+		},
+		{
+			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/config/Netherlicious/Piglin_Sell_List.cfg",
+			"folder": "config/Netherlicious",
+			"installationPolicy":
+			{
+				"downloadAlways": true
+			}
+		},
+		{
+			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/config/Netherlicious/Structure_Configuration.cfg",
+			"folder": "config/Netherlicious",
+			"installationPolicy":
+			{
+				"downloadAlways": true
+			}
+		},
+		{
 			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/config/Netherlicious/Worldgeneration_Configuration.cfg",
 			"folder": "config/Netherlicious",
 			"installationPolicy":
@@ -147,6 +219,14 @@
 		},
 		{
 			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/config/forge.cfg",
+			"folder": "config",
+			"installationPolicy":
+			{
+				"downloadAlways": true
+			}
+		},
+		{
+			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/config/FSP-materials.json",
 			"folder": "config",
 			"installationPolicy":
 			{

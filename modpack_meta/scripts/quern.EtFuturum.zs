@@ -12,6 +12,7 @@ mods.Terrafirmacraft.Quern.addRecipe(<etfuturum:dye:1> * 2, <netherlicious:Gloom
 /* Brown */
 mods.Terrafirmacraft.Quern.addRecipe(<etfuturum:dye:2>, <minecraft:dye:3>);
 /* Black */
-mods.Terrafirmacraft.Quern.addRecipe(<etfuturum:dye:3>, <minecraft:dye>);
+mods.Terrafirmacraft.Quern.addRecipe(<etfuturum:dye:3>, <terrafirmacraft:item.dyePowder>);
+//mods.Terrafirmacraft.Quern.addRecipe(<etfuturum:dye:3>, <minecraft:dye>);
 mods.Terrafirmacraft.Quern.addRecipe(<etfuturum:dye:3> * 2, <etfuturum:wither_rose>);
 mods.Terrafirmacraft.Quern.addRecipe(<etfuturum:dye:3> * 2, <netherlicious:WitherRose>);

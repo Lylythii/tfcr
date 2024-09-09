@@ -16,6 +16,22 @@
 			{
 				"downloadAlways": true
 			}
+		},
+		{
+			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/config/customitems/CropGeneration.json",
+			"folder": "config/etfuturum",
+			"installationPolicy":
+			{
+				"downloadAlways": true
+			}
+		},
+		{
+			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/config/customitems/Crops.json",
+			"folder": "config/etfuturum",
+			"installationPolicy":
+			{
+				"downloadAlways": true
+			}
 		}
 	]
 }

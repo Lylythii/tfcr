@@ -27,6 +27,8 @@
 !modpack_meta/config/customitems/*
 !modpack_meta/config/etfuturum
 !modpack_meta/config/etfuturum/*
+!modpack_meta/config/railcraft
+!modpack_meta/config/railcraft/*
 !modpack_meta/config/Netherlicious
 !modpack_meta/config/Netherlicious/*
 !modpack_meta/lang

@@ -93,12 +93,20 @@ var obsidian = <ore:obsidian>;
     obsidian.add(<minecraft:obsidian>);
 
 var obsidianCrying = <ore:obsidianCrying>;
-    obsidianCrying.add(<etfuturum:crying_obsidian>);
+    //obsidianCrying.add(<etfuturum:crying_obsidian>);
+    obsidianCrying.add(<netherlicious:CryingObsidian>);
 
 
 /* ================ Ingots ================ */
 var ingotIron = <ore:ingotIron>;
     ingotIron.remove(<terrafirmacraft:item.Wrought Iron Ingot>);
+
+var ingotCopper = <ore:ingotCopper>;
+    //ingotCopper.remove(<Railcraft:ingot:1>);
+    ingotCopper.remove(<Steamcraft:steamcraftIngot>);
+    ingotCopper.remove(<TConstruct:materials:9>);
+    ingotCopper.remove(<etfuturum:copper_ingot>);
+    ingotCopper.remove(<exnihilo:exnihilo.copper_ingot>);
 
 
 /* ================ Nuggets ================ */
@@ -223,3 +231,4 @@ var dyeRed = <ore:dyeRed>;
 
 var dyeBlack = <ore:dyeBlack>;
     dyeBlack.remove(<minecraft:dye>);
+    dyeBlack.remove(<terrafirmacraft:item.dyePowder>);
