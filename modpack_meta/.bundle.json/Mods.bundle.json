@@ -609,6 +609,20 @@
 			"fileId": 2360595
 		},
 		{
+            "comment": "BspkrsCore | https://www.curseforge.com/minecraft/mc-mods/bspkrscore/files/2227503",
+			"folder": "mods/1.7.10",
+			"fileName": "MOD ┆ BspkrsCore.jar",
+			"addonId": 59218,
+			"fileId": 2227503
+		},
+		{
+            "comment": "Electrical Age | https://www.curseforge.com/minecraft/mc-mods/electrical-age-eln/files/4963357",
+			"folder": "mods/1.7.10",
+			"fileName": "MOD ┆ Electrical Age.jar",
+			"addonId": 872965,
+			"fileId": 4963357
+		},
+		{
             "comment": "Angelica | https://www.curseforge.com/minecraft/mc-mods/angelica/files/5597056",
 			"folder": "mods/1.7.10",
 			"addonId": 988067,
