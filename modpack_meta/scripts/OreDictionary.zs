@@ -115,6 +115,11 @@ var ingotCopper = <ore:ingotCopper>;
     ingotCopper.remove(<TConstruct:materials:9>);
     ingotCopper.remove(<etfuturum:copper_ingot>);
     ingotCopper.remove(<exnihilo:exnihilo.copper_ingot>);
+    ingotCopper.remove(<IC2:itemIngot>);
+
+var ingotBronze = <ore:ingotBronze>;
+    ingotBronze.remove(<IC2:itemIngot:2>);
+    ingotBronze.remove(<TConstruct:materials:13>);
 
 var ingotBrass = <ore:ingotBrass>;
     ingotBrass.remove(<Steamcraft:steamcraftIngot:2>);
@@ -313,6 +318,10 @@ var plateCopper = <ore:plateCopper>;
     plateCopper.remove(<terrafirmacraft:item.Copper Sheet>);
     plateCopper.remove(<IC2:itemPlates>);
 
+var plateSteamcraftCopper = <ore:plateSteamcraftCopper>;
+    plateSteamcraftCopper.remove(<terrafirmacraft:item.Copper Sheet>);
+    plateSteamcraftCopper.remove(<IC2:itemPlates>);
+
 var plateWroughtIron = <ore:plateWroughtIron>;
     plateWroughtIron.remove(<terrafirmacraft:item.Wrought Iron Sheet>);
 
@@ -340,6 +349,10 @@ var plateBrass = <ore:plateBrass>;
 var plateGold = <ore:plateGold>;
     plateGold.remove(<terrafirmacraft:item.Gold Sheet>);
     plateGold.remove(<IC2:itemPlates:3>);
+
+var plateSteamcraftGold = <ore:plateSteamcraftGold>;
+    plateSteamcraftGold.remove(<terrafirmacraft:item.Gold Sheet>);
+    plateSteamcraftGold.remove(<IC2:itemPlates:3>);
 
 var plateLead = <ore:plateLead>;
     plateLead.remove(<terrafirmacraft:item.Lead Sheet>);
@@ -517,6 +530,9 @@ var wireRedAlloy = <ore:wireRedAlloy>;
 
 
 /* ================ Miscellaneous ================ */
+var flint = <ore:flint>;
+    flint.remove(<minecraft:flint>);
+
 var stickWood = <ore:stickWood>;
     stickWood.remove(<minecraft:stick>);
 

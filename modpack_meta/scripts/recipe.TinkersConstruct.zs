@@ -1,6 +1,11 @@
 
 recipes.remove(<TConstruct:decoration.stonetorch>);
 
+recipes.remove(<TConstruct:helmetWood>);
+recipes.remove(<TConstruct:chestplateWood>);
+recipes.remove(<TConstruct:leggingsWood>);
+recipes.remove(<TConstruct:bootsWood>);
+
 // Tweak Drying Rack recipe
 recipes.remove(<TConstruct:Armor.DryingRack>);
 recipes.addShaped(<TConstruct:Armor.DryingRack>, [

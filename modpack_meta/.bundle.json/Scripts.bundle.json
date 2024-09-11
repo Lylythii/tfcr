@@ -290,7 +290,23 @@
 			}
 		},
 		{
+			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/scripts/recipe.TerraMisc.zs",
+			"folder": "scripts",
+			"installationPolicy":
+			{
+				"downloadAlways": true
+			}
+		},
+		{
 			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/scripts/recipe.TFCAdditions.zs",
+			"folder": "scripts",
+			"installationPolicy":
+			{
+				"downloadAlways": true
+			}
+		},
+		{
+			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/scripts/recipe.TFCAutobellows.zs",
 			"folder": "scripts",
 			"installationPolicy":
 			{

@@ -14,9 +14,11 @@ recipes.remove(<IC2:itemArmorBronzeLegs>);
 recipes.remove(<IC2:itemArmorBronzeChestplate>);
 recipes.remove(<IC2:itemArmorBronzeHelmet>);
 
-/* Remove ingots recipes */
+/* Remove ingot recipes */
 furnace.remove(<IC2:itemIngot:*>);
 recipes.remove(<IC2:itemIngot:*>);
+/* Remove plate recipes */
+recipes.remove(<IC2:itemPlates:*>);
 
 
 recipes.remove(<IC2:itemIngot:4>);
