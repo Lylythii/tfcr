@@ -14,10 +14,3 @@ recipes.addShaped(<tfcautomatedbellows:woodenShield>, [
     [<ore:woodLumberPlaned>],
     [<ore:woodLumberPlaned>]
 ]);
-
-// Wooden Club
-recipes.remove(<tfcautomatedbellows:itemWoodenClub>);
-recipes.addShaped(<tfcautomatedbellows:itemWoodenClub>, [
-    [<ore:logwood>, <ore:flint>],
-    [<ore:flint>, <tfcprimitivetech:itemWoodenTwig>]
-]);
