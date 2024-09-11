@@ -476,6 +476,69 @@
 			"fileId": 2338148
 		},
 		{
+            "comment": "Buildcraft | https://www.curseforge.com/minecraft/mc-mods/buildcraft/files/4055732",
+			"folder": "mods/1.7.10",
+			"fileName": "MOD ┆ Buildcraft.jar",
+			"addonId": 61811,
+			"fileId": 4055732
+		},
+		{
+            "comment": "Chisel | https://www.curseforge.com/minecraft/mc-mods/chisel/files/2287442",
+			"folder": "mods/1.7.10",
+			"fileName": "MOD ┆ Chisel.jar",
+			"addonId": 235279,
+			"fileId": 2287442
+		},
+		{
+            "comment": "Inventory Centerer | https://www.curseforge.com/minecraft/mc-mods/inventory-centerer/files/2276597",
+			"folder": "mods/1.7.10",
+			"fileName": "MOD ┆ Inventory Centerer.jar",
+			"addonId": 240729,
+			"fileId": 2276597
+		},
+		{
+            "comment": "Stalker Creepers | https://www.curseforge.com/minecraft/mc-mods/stalker-creepers/files/2246908",
+			"folder": "mods/1.7.10",
+			"fileName": "MOD ┆ Stalker Creepers.jar",
+			"addonId": 227886,
+			"fileId": 2246908
+		},
+		{
+            "comment": "NEI Addons | https://www.curseforge.com/minecraft/mc-mods/nei-addons/files/2269749",
+			"folder": "mods/1.7.10",
+			"fileName": "MOD ┆ NEI Addons.jar",
+			"addonId": 63352,
+			"fileId": 2269749
+		},
+		{
+            "comment": "Not Enough Energistics | https://www.curseforge.com/minecraft/mc-mods/not-enough-energistics/files/3661928",
+			"folder": "mods/1.7.10",
+			"fileName": "MOD ┆ Not Enough Energistics.jar",
+			"addonId": 515565,
+			"fileId": 3661928
+		},
+		{
+            "comment": "CMIP | https://www.curseforge.com/minecraft/mc-mods/cmip/files/2263965",
+			"folder": "mods/1.7.10",
+			"fileName": "MOD ┆ CMIP.jar",
+			"addonId": 237207,
+			"fileId": 2263965
+		},
+		{
+            "comment": "Not Enough Thaumcraft Tabs | https://www.curseforge.com/minecraft/mc-mods/notenoughthaumcrafttabs/files/2266711",
+			"folder": "mods/1.7.10",
+			"fileName": "MOD ┆ Not Enough Thaumcraft Tabs.jar",
+			"addonId": 237232,
+			"fileId": 2266711
+		},
+		{
+            "comment": "IC2 Crop Breeding Plugin | https://www.curseforge.com/minecraft/mc-mods/ic2-nei-crop-plugin/files/2941926",
+			"folder": "mods/1.7.10",
+			"fileName": "MOD ┆ IC2 Crop Breeding Plugin.jar",
+			"addonId": 236609,
+			"fileId": 2941926
+		},
+		{
             "comment": "Angelica | https://www.curseforge.com/minecraft/mc-mods/angelica/files/5597056",
 			"folder": "mods/1.7.10",
 			"addonId": 988067,
