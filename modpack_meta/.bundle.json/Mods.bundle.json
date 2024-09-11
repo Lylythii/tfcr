@@ -560,6 +560,55 @@
 			"fileId": 2257238
 		},
 		{
+            "comment": "ArmorStatusHUD | https://www.curseforge.com/minecraft/mc-mods/armorstatushud/files/2218859",
+			"folder": "mods/1.7.10",
+			"fileName": "MOD ┆ ArmorStatusHUD.jar",
+			"addonId": 225564,
+			"fileId": 2218859
+		},
+		{
+            "comment": "StatusEffectHUD | https://www.curseforge.com/minecraft/mc-mods/statuseffecthud/files/2218935",
+			"folder": "mods/1.7.10",
+			"fileName": "MOD ┆ StatusEffectHUD.jar",
+			"addonId": 225566,
+			"fileId": 2218935
+		},
+		{
+            "comment": "StabilityTooltip | https://www.curseforge.com/minecraft/mc-mods/stabilitytooltip/files/2274186",
+			"folder": "mods/1.7.10",
+			"fileName": "MOD ┆ StabilityTooltip.jar",
+			"addonId": 239203,
+			"fileId": 2274186
+		},
+		{
+            "comment": "Timestamps | https://www.curseforge.com/minecraft/mc-mods/timestamps/files/2454929",
+			"folder": "mods/1.7.10",
+			"fileName": "MOD ┆ StabilityTooltip.jar",
+			"addonId": 272757,
+			"fileId": 2454929
+		},
+		{
+            "comment": "Iron Chest | https://www.curseforge.com/minecraft/mc-mods/iron-chest-unofficial/files/5697262",
+			"folder": "mods/1.7.10",
+			"fileName": "MOD ┆ Iron Chest.jar",
+			"addonId": 1095442,
+			"fileId": 5697262
+		},
+		{
+            "comment": "Enviromine | https://www.curseforge.com/minecraft/mc-mods/enviromine-continuation/files/5514739",
+			"folder": "mods/1.7.10",
+			"fileName": "MOD ┆ Enviromine.jar",
+			"addonId": 997281,
+			"fileId": 5514739
+		},
+		{
+            "comment": "Stacksize | https://www.curseforge.com/minecraft/mc-mods/stacksize/files/2360595",
+			"folder": "mods/1.7.10",
+			"fileName": "MOD ┆ Stacksize.jar",
+			"addonId": 247843,
+			"fileId": 2360595
+		},
+		{
             "comment": "Angelica | https://www.curseforge.com/minecraft/mc-mods/angelica/files/5597056",
 			"folder": "mods/1.7.10",
 			"addonId": 988067,
