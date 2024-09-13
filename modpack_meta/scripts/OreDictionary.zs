@@ -116,6 +116,7 @@ var ingotCopper = <ore:ingotCopper>;
     ingotCopper.remove(<etfuturum:copper_ingot>);
     ingotCopper.remove(<exnihilo:exnihilo.copper_ingot>);
     ingotCopper.remove(<IC2:itemIngot>);
+    ingotCopper.remove(<Eln:Eln.sharedItem:513>);
 
 var ingotBronze = <ore:ingotBronze>;
     ingotBronze.remove(<IC2:itemIngot:2>);
@@ -127,6 +128,11 @@ var ingotBrass = <ore:ingotBrass>;
 var ingotZinc = <ore:ingotZinc>;
     ingotZinc.remove(<Steamcraft:steamcraftIngot:1>);
 
+var ingotLead = <ore:ingotLead>;
+    ingotLead.remove(<Eln:Eln.sharedItem:516>);
+
+var ingotTungsten = <ore:ingotTungsten>;
+    ingotTungsten.remove(<Eln:Eln.sharedItem:517>);
 
 /* ================ Sheets ================ */
 var sheetBismuth = <ore:sheetBismuth>;
@@ -345,6 +351,9 @@ var plateZinc = <ore:plateZinc>;
 
 var plateBrass = <ore:plateBrass>;
     plateBrass.remove(<terrafirmacraft:item.Brass Sheet>);
+
+var plateSteamcraftBrass = <ore:plateSteamcraftBrass>;
+    plateSteamcraftBrass.remove(<terrafirmacraft:item.Brass Sheet>);
 
 var plateGold = <ore:plateGold>;
     plateGold.remove(<terrafirmacraft:item.Gold Sheet>);
@@ -567,6 +576,33 @@ var toolWoodPlane = <ore:toolWoodPlane>;
     toolWoodPlane.add(<tfcadditions:item.Wrought Iron Planer>);
     toolWoodPlane.add(<tfcadditions:item.Red Steel Planer>);
     toolWoodPlane.add(<tfcadditions:item.Steel Planer>);
+
+var itemChisel = <ore:itemChisel>;
+    itemChisel.add(<terrathaumcraft:item.thaumiumchisel>);
+
+var itemPickaxe = <ore:itemPickaxe>;
+    itemPickaxe.add(<terrathaumcraft:item.thaumiumpickaxe>);
+
+var itemShovel = <ore:itemShovel>;
+    itemShovel.add(<terrathaumcraft:item.thaumiumshovel>);
+
+var itemHoe = <ore:itemHoe>;
+    itemHoe.add(<terrathaumcraft:item.thaumiumhoe>);
+
+var itemJavelin = <ore:itemJavelin>;
+    itemJavelin.add(<terrathaumcraft:item.thaumiumjavelin>);
+
+var itemSword = <ore:itemSword>;
+    itemSword.add(<terrathaumcraft:item.thaumiumsword>);
+
+var itemMace = <ore:itemMace>;
+    itemMace.add(<terrathaumcraft:item.thaumiummace>);
+
+var itemProPick = <ore:itemProPick>;
+    itemProPick.add(<terrathaumcraft:item.thaumiumpropick>);
+
+var itemScythe = <ore:itemScythe>;
+    itemScythe.add(<terrathaumcraft:item.thaumiumscythe>);
 
 /* ================ Planed Lumber ================ */
 var woodLumberPlaned = <ore:woodLumberPlaned>;

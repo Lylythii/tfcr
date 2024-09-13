@@ -66,6 +66,14 @@
 			}
 		},
 		{
+			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/scripts/nei.Buildcraft.zs",
+			"folder": "scripts",
+			"installationPolicy":
+			{
+				"downloadAlways": true
+			}
+		},
+		{
 			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/scripts/nei.CarpentersBlocks.zs",
 			"folder": "scripts",
 			"installationPolicy":
@@ -178,6 +186,14 @@
 			}
 		},
 		{
+			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/scripts/recipe.Buildcraft.zs",
+			"folder": "scripts",
+			"installationPolicy":
+			{
+				"downloadAlways": true
+			}
+		},
+		{
 			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/scripts/recipe.CarpentersBlocks.zs",
 			"folder": "scripts",
 			"installationPolicy":
@@ -195,6 +211,14 @@
 		},
 		{
 			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/scripts/recipe.CustomItems.zs",
+			"folder": "scripts",
+			"installationPolicy":
+			{
+				"downloadAlways": true
+			}
+		},
+		{
+			"url": "https://raw.githubusercontent.com/Lylythii/tfcr/main/modpack_meta/scripts/recipe.ElectricalAge.zs",
 			"folder": "scripts",
 			"installationPolicy":
 			{
